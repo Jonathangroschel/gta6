@@ -8,6 +8,8 @@ in your own map, app or tool.
 - Index of every hosted file: https://fbritoferreira.github.io/gta6/assets.json
 - Live example: The Hunt's GTA 6 map at https://trophies.fbritoferreira.com/gta-6/map
 
+No ads and no paywall. If the map helps you, you can [buy me a coffee](https://buymeacoffee.com/fbritoferreira) to cover hosting.
+
 ## Use the data
 
 Every file in [`public/`](public) is published at the same path on the site, so the URL for any file is the site
