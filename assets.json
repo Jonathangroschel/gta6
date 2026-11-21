@@ -7,9 +7,14 @@
     "categories": "data/categories.json",
     "districts": "data/districts.json",
     "labels": "data/labels.json",
+    "land": "data/land.json",
     "locations": "data/locations.json",
     "places": "data/places.json",
-    "removed": "data/removed.json"
+    "rails": "data/rails.json",
+    "removed": "data/removed.json",
+    "roads": "data/roads.json",
+    "routes": "data/routes.json",
+    "surface": "data/surface.json"
   },
   "tiles": {
     "styles": [
@@ -19,7 +24,7 @@
     "url": "tiles/{style}/{z}/{z},{y},{x}.webp",
     "tileSize": 256,
     "minZoom": 0,
-    "maxZoom": 4,
+    "maxZoom": 5,
     "crs": "Leaflet CRS.Simple, 1024 units square at zoom 0, latitude = -y"
   },
   "pins": {

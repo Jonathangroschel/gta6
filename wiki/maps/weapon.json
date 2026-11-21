@@ -180,7 +180,7 @@
 			],
 			"popup": {
 				"title": "Sticky Bombs",
-				"description": "Location: [[Vice City]]<br/>Inside a crate in the large block enclosure.",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside a crate in the large block enclosure.",
 				"link": {
 					"url": "",
 					"label": ""
@@ -628,7 +628,7 @@
 			],
 			"popup": {
 				"title": ".50 Pistol",
-				"description": "Location: [[Vice City]]",
+				"description": "Location: [[State of Leonida|Leonida]]",
 				"link": {
 					"url": "",
 					"label": ""
@@ -676,7 +676,7 @@
 			],
 			"popup": {
 				"title": "Frag Grenades",
-				"description": "Location: [[Port Gellhorn]]<br/>Under the overpass, near a bright construction light and shovels: break open the large wooden crate for 3 or more frag grenades.",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the overpass, near a bright construction light and shovels: break open the large wooden crate for 3 or more frag grenades.",
 				"link": {
 					"url": "",
 					"label": ""
@@ -788,7 +788,7 @@
 			],
 			"popup": {
 				"title": "Scraper VF5C",
-				"description": "Location: [[Port Gellhorn]]<br/>On the top floor, near the safe.",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the top floor, near the safe.",
 				"link": {
 					"url": "",
 					"label": ""
