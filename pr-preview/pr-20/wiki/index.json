@@ -12,7 +12,7 @@
     {
       "title": "Map:GTA VI: Collectible Cards",
       "path": "maps/card.json",
-      "markers": 207
+      "markers": 206
     },
     {
       "title": "Map:GTA VI: WAiNK Scans",
@@ -172,7 +172,7 @@
     {
       "title": "Map:GTA VI: 100% Completion",
       "path": "maps/completion.json",
-      "markers": 1269
+      "markers": 1268
     }
   ]
 }
