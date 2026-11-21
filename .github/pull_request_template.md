@@ -24,4 +24,4 @@ For code, the test or command output before and after. -->
 - [ ] `pnpm build` passes (regenerates districts and validates the data)
 - [ ] `pnpm lint`, `pnpm format:check` and `pnpm test` pass, if code changed
 - [ ] New locations use map units, a unique `id` and a `kind` from `categories.json`
-- [ ] Screenshots and pins are my own captures or drawings, as the [CLA](../CLA.md) requires
+- [ ] Screenshots and pins are my own captures or drawings, as the [CLA](https://github.com/fbritoferreira/gta6/blob/main/CLA.md) requires
