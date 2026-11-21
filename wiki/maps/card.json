@@ -3327,6 +3327,166 @@
 			"categoryId": "1",
 			"id": "207",
 			"position": [
+				1224.53,
+				1012.5
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Marquise Bernard",
+				"description": "Location: [[Watson Bay]]<br/>Found in a box on the second floor",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "208",
+			"position": [
+				1543.91,
+				725.63
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Chastity",
+				"description": "Location: [[Key Lento]]<br/>In a yellow toolbox on some crates beside the jet ski.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "209",
+			"position": [
+				850.63,
+				1684.53
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Ratster (Blue)",
+				"description": "Location: [[Capri]]<br/>In the staff-only area of the LTD Food Mart - Capri, on top of a microwave.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "210",
+			"position": [
+				2010.63,
+				1312.81
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Judas Sterling",
+				"description": "Location: [[Gloriana Key]]<br/>From the rusty walkway at the top of the stadium, go up the ladder next to the vagrants. The card sits next to a hammer and some lawn gnomes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "211",
+			"position": [
+				2018.28,
+				1314.69
+			],
+			"popup": {
+				"title": "Legends of Ratface card: The Diddler",
+				"description": "Location: [[Gloriana Key]]<br/>On the bottom level, behind the seating, there is a small dark alley. On the east side, the card is under a half-open metal garage door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "212",
+			"position": [
+				1760.94,
+				1723.59
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Carlos Larios (Gold)",
+				"description": "Location: [[Vice City]]<br/>On the roof of the building, next to a chair.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "213",
+			"position": [
+				921.72,
+				2291.72
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Katie K",
+				"description": "Location: [[Port Gellhorn]]<br/>In a yellow box inside the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "214",
+			"position": [
+				1743.28,
+				1481.25
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Antoine Bell",
+				"description": "Location: [[Vice City]]<br/>On the basketball court, next to a white backpack and a green bench.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "215",
+			"position": [
+				1357.5,
+				2852.81
+			],
+			"popup": {
+				"title": "Delights card: Perla",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a lockbox beside the vagrant on the porch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "216",
+			"position": [
+				1735.47,
+				1785.63
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Dr. Placebo",
+				"description": "Location: [[Vice City]]<br/>On the shelf inside the building, through the back entrance.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "217",
+			"position": [
 				1097.81,
 				2158.28
 			],
