@@ -313,6 +313,7 @@ body.closed #side {
 
 #side footer {
   display: flex;
+  flex-wrap: wrap;
   gap: 8px;
   align-items: center;
   padding: 12px 18px 14px;
@@ -334,10 +335,43 @@ body.closed #side {
   color: var(--gulf);
   border-color: var(--bone);
 }
-#side footer a {
+#side footer .license {
   margin-left: auto;
   color: var(--haze);
   font-size: 12px;
+}
+/* Same pill as the PSN trophies site, in this map's sand tone so it doesn't compete with "Embed map". */
+#side footer .sponsor {
+  flex-basis: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: var(--sand);
+  color: var(--gulf);
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s;
+}
+#side footer .sponsor:hover,
+#side footer .sponsor:focus-visible {
+  transform: scale(1.02);
+}
+#side footer .sponsor svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+@media (prefers-reduced-motion: reduce) {
+  #side footer .sponsor {
+    transition: none;
+  }
+  #side footer .sponsor:hover,
+  #side footer .sponsor:focus-visible {
+    transform: none;
+  }
 }
 a {
   color: var(--teal);
