@@ -1,0 +1,304 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Meteorite",
+			"color": "#b5179e",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				1474.5,
+				501
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Key Lento]]<br/>Under The Dead Tree",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				1465,
+				476.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Key Lento]]<br/>Between the rocks",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				1471,
+				493
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Key Lento]]<br/>Hidden under the tree",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				1526,
+				564
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Key Lento]]<br/>Next to a log",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				1638.5,
+				686.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Key Lento]]<br/>Near a tree by the camp",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				1434,
+				2576.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Collectible piece of meteorite which falls on tourist camp.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				1054.5,
+				552.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On beach along the waterline, maybe 100 ft N of the Derelict Spy Vessel on E side of the island",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				1219,
+				437
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Very close to the Carcass and a few feet away from the water inlet is a meteorite piece in the sand",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				886,
+				691.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>next to Goose Key Carcass",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				1215.5,
+				881.5
+			],
+			"popup": {
+				"title": "Meteorite",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Meteorite not far from carcass",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				972.5,
+				832.5
+			],
+			"popup": {
+				"title": "Meteorite (Dudz Island)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Just under the metallic structure, exactly in the middle",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				1019.5,
+				628.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Among a group of rocks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				965.5,
+				585
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under an overturned wooden dinghy on the beach, near the half-sunken boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				708.5,
+				655
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				1490.5,
+				2989.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the bridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				1135,
+				2666
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>By the lake.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				1246,
+				2625
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Glowing red, on Mount Kalaga.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}
