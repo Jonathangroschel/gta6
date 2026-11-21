@@ -92,7 +92,7 @@
     {
       "title": "Map:GTA VI: Meteorites",
       "path": "maps/meteorite.json",
-      "markers": 25
+      "markers": 26
     },
     {
       "title": "Map:GTA VI: Treasures",
@@ -157,7 +157,7 @@
     {
       "title": "Map:GTA VI: Towable ATMs",
       "path": "maps/towatm.json",
-      "markers": 93
+      "markers": 99
     },
     {
       "title": "Map:GTA VI: Payday Loans",

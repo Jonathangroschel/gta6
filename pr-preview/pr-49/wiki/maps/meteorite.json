@@ -383,6 +383,22 @@
 			"categoryId": "1",
 			"id": "23",
 			"position": [
+				799.38,
+				1768.75
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Capri]]<br/>Right of the boat party, on the sand where the tide comes in.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
 				790.47,
 				1832.5
 			],
@@ -397,7 +413,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "24",
+			"id": "25",
 			"position": [
 				770,
 				1862.66
@@ -413,7 +429,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "25",
+			"id": "26",
 			"position": [
 				701.88,
 				1901.25
