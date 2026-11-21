@@ -8,7 +8,8 @@
     "districts": "data/districts.json",
     "labels": "data/labels.json",
     "locations": "data/locations.json",
-    "places": "data/places.json"
+    "places": "data/places.json",
+    "removed": "data/removed.json"
   },
   "tiles": {
     "styles": [
