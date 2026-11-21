@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - eslint-plugin-solid@0.20.1
