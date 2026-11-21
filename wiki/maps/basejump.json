@@ -458,6 +458,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				2153.28,
+				1808.59
+			],
+			"popup": {
+				"title": "Parachute (Effluvia roof)",
+				"description": "Location: [[Vice Beach]]<br/>Parachute box on the Effluvia rooftop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

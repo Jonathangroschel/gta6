@@ -618,6 +618,198 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				1634.84,
+				1149.84
+			],
+			"popup": {
+				"title": ".50 Pistol",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				752.66,
+				765.78
+			],
+			"popup": {
+				"title": "Drug Mule KZ-59",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Underwater. Look for floating debris and dive straight down to the sunken boat. The weapon is under the boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				1106.41,
+				2869.53
+			],
+			"popup": {
+				"title": "Rocket Launcher",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the shipwreck in the Featherstone Islands: in one of the crates on the beach.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				879.84,
+				2266.88
+			],
+			"popup": {
+				"title": "Frag Grenades",
+				"description": "Location: [[Port Gellhorn]]<br/>Under the overpass, near a bright construction light and shovels: break open the large wooden crate for 3 or more frag grenades.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				901.72,
+				2209.53
+			],
+			"popup": {
+				"title": "Sticky Bombs",
+				"description": "Location: [[Port Gellhorn]]<br/>In a crate inside the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				926.72,
+				2297.81
+			],
+			"popup": {
+				"title": "Sticky Bombs",
+				"description": "Location: [[Port Gellhorn]]<br/>In the crate.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				915,
+				2175.63
+			],
+			"popup": {
+				"title": "AT-T",
+				"description": "Location: [[Port Gellhorn]]<br/>On a crate in the fence's yard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				968.28,
+				2350.16
+			],
+			"popup": {
+				"title": "Frag Grenades",
+				"description": "Location: [[Port Gellhorn]]<br/>Under the bridge in a large wooden crate, just behind a large construction light with shovels and cones.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				880.78,
+				2169.22
+			],
+			"popup": {
+				"title": "Sticky Bombs",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the last open train car, in a wooden box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				1411.25,
+				2230.78
+			],
+			"popup": {
+				"title": "Gun Nut House: SM-01",
+				"description": "Location: [[Ambrosia]]<br/>Break into the house through the side door: the gun is on the kitchen counter with plenty of ammo next to it, and there's body armor in the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				849.84,
+				2223.59
+			],
+			"popup": {
+				"title": "Scraper VF5C",
+				"description": "Location: [[Port Gellhorn]]<br/>On the top floor, near the safe.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				1102.66,
+				1153.13
+			],
+			"popup": {
+				"title": "Molotov Cocktails",
+				"description": "Location: [[Watson Bay]]<br/>In a chest full of Molotovs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

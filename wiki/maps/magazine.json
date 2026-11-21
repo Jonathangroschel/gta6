@@ -826,6 +826,54 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				945.63,
+				1477.66
+			],
+			"popup": {
+				"title": "Foiled",
+				"description": "Location: [[Capri]]<br/>On a stand, by the door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				1490.94,
+				650.31
+			],
+			"popup": {
+				"title": "Styling Magazine: Lucia Make-up",
+				"description": "Location: [[Key Lento]]<br/>On top of the bed. Scannable with Waink.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				993.75,
+				639.06
+			],
+			"popup": {
+				"title": "Tattoo Magazine: The Freedom Raft",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

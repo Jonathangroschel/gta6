@@ -3498,6 +3498,902 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "218",
+			"position": [
+				1040.94,
+				2120.31
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Wenyen Deng",
+				"description": "Location: [[Port Gellhorn]]<br/>In a yellow box next to the wrecked white pickup.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "219",
+			"position": [
+				1600.78,
+				2193.75
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Delord Nathan Alford",
+				"description": "Location: [[Ambrosia]]<br/>Enter from the roof (there is a barking dog).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "220",
+			"position": [
+				1715.31,
+				2682.34
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Ratster",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "221",
+			"position": [
+				1009.84,
+				2422.03
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Randolph Topolski",
+				"description": "Location: [[Port Gellhorn]]<br/>In the room at the top of the barn: climb the tractor to get in. Same room as the magazine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "222",
+			"position": [
+				1100,
+				2470.94
+			],
+			"popup": {
+				"title": "Delights card: Mario",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the phone box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "223",
+			"position": [
+				1965.47,
+				2474.22
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Jackson Belton",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "224",
+			"position": [
+				1584.22,
+				790.94
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Miguel Ayala",
+				"description": "Location: [[Key Lento]]<br/>At the top of the tower, inside the yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "225",
+			"position": [
+				1627.19,
+				752.5
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Jude Flores",
+				"description": "Location: [[Key Lento]]<br/>On top of the building, inside a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "226",
+			"position": [
+				903.59,
+				2210.78
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Garth Buxton",
+				"description": "Location: [[Port Gellhorn]]<br/>Up on the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "227",
+			"position": [
+				1605.78,
+				714.38
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Katie K",
+				"description": "Location: [[Key Lento]]<br/>Behind the purple house, inside a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "228",
+			"position": [
+				1547.03,
+				1657.03
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Andre Stevenson",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "229",
+			"position": [
+				1194.38,
+				2132.5
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Christoph Schulz",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On top of the large chimney.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "230",
+			"position": [
+				812.97,
+				1678.75
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Si Woo Chod",
+				"description": "Location: [[Capri]]<br/>In the yellow case in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "231",
+			"position": [
+				1437.19,
+				1096.41
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Xavier Gomez",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "232",
+			"position": [
+				1036.25,
+				2655
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Harold Toye (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In front of the house, close to the radio.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "233",
+			"position": [
+				1486.41,
+				627.03
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Antoine Bello",
+				"description": "Location: [[Key Lento]]<br/>On the rooftop, in a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "234",
+			"position": [
+				861.72,
+				2208.75
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Bingo Johnson",
+				"description": "Location: [[Port Gellhorn]]<br/>In the kitchen.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "235",
+			"position": [
+				1127.19,
+				2703.75
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Taylor Blanc (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a yellow case behind the car in the garage. The garage code is on signs inside the house next to it (2727 for one member).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "236",
+			"position": [
+				943.91,
+				2280.94
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Chastity",
+				"description": "Location: [[Port Gellhorn]]<br/>In the garage, in a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "237",
+			"position": [
+				852.19,
+				2165.16
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card",
+				"description": "Location: [[Port Gellhorn]]<br/>In the stands, next to a bag at the top right.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "238",
+			"position": [
+				1730.94,
+				1724.22
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Oluwa Mohammed",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "239",
+			"position": [
+				793.91,
+				1665.31
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Taylor Blanc",
+				"description": "Location: [[Capri]]<br/>In a case.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "240",
+			"position": [
+				862.34,
+				2208.75
+			],
+			"popup": {
+				"title": "Collectible Card",
+				"description": "Location: [[Port Gellhorn]]<br/>Hanging on the wall.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "241",
+			"position": [
+				941.56,
+				1489.69
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Vaccerine",
+				"description": "Location: [[Capri]]<br/>In the shed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "242",
+			"position": [
+				1628.75,
+				765.63
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Lionel Taber",
+				"description": "Location: [[Key Lento]]<br/>On the toilet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "243",
+			"position": [
+				1489.69,
+				651.25
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Bruce Goosen",
+				"description": "Location: [[Key Lento]]<br/>Inside the garage, in a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "244",
+			"position": [
+				1890,
+				1916.72
+			],
+			"popup": {
+				"title": "Chastity",
+				"description": "Location: [[Vice City]]<br/>In a warehouse, follow the robotic voice saying Daddy inside, and it will be next to a laptop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "245",
+			"position": [
+				1313.75,
+				1972.81
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Miguel Ayala",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the yellow box inside the barn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "246",
+			"position": [
+				1658.44,
+				1259.06
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Taylor Blanc",
+				"description": "Location: [[Vice City]]<br/>In the gas station office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "247",
+			"position": [
+				842.97,
+				1645.16
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Ulysses Whitlock (Bronze)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "248",
+			"position": [
+				1724.38,
+				2764.69
+			],
+			"popup": {
+				"title": "Delights card",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the roof of the cabaret.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "249",
+			"position": [
+				1564.53,
+				675.16
+			],
+			"popup": {
+				"title": "Delights card: Nevaeh",
+				"description": "Location: [[Key Lento]]<br/>Open the garage: yellow box on top of the cabinet on the right.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "250",
+			"position": [
+				1574.06,
+				783.59
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Julian Hall",
+				"description": "Location: [[Key Lento]]<br/>In a yellow box beside the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "251",
+			"position": [
+				1224.06,
+				2210
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Mateo Caballero (Bronze)",
+				"description": "Location: [[Ambrosia]]<br/>Right next to the baseball bat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "252",
+			"position": [
+				1738.44,
+				1566.88
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Ellie Burke",
+				"description": "Location: [[Vice City]]<br/>Inside the unlocked flat on the upper terrace, on the fridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "253",
+			"position": [
+				1540.94,
+				641.09
+			],
+			"popup": {
+				"title": "Delights card: Tracy",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "254",
+			"position": [
+				1764.69,
+				1768.44
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Sione Apa",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "255",
+			"position": [
+				1597.5,
+				2117.03
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Beverly",
+				"description": "Location: [[Ambrosia]]<br/>At the top of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "256",
+			"position": [
+				1568.75,
+				717.97
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Armando Ibarra Jr.",
+				"description": "Location: [[Key Lento]]<br/>Inside a yellow toolbox.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "257",
+			"position": [
+				1411.25,
+				2237.81
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Laki Maivia",
+				"description": "Location: [[Ambrosia]]<br/>Inside the blue house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "258",
+			"position": [
+				1866.25,
+				1954.06
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Atonga Alaatatoa (Standard)",
+				"description": "Location: [[Vice City]]<br/>Star Rookie card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "259",
+			"position": [
+				1532.81,
+				662.19
+			],
+			"popup": {
+				"title": "Sue Prettyman card (Standard)",
+				"description": "Location: [[Key Lento]]<br/>In a yellow box near the Nine1Nine Georgia card, in the same building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "260",
+			"position": [
+				921.72,
+				603.13
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Xavier Gomez",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Yellow box in the wooden auto repair building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "261",
+			"position": [
+				915.47,
+				1593.28
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Gouwan Marcus",
+				"description": "Location: [[Capri]]<br/>On top of the round roof, by the chairs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "262",
+			"position": [
+				1866.88,
+				1835.63
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Kyle Lewicki",
+				"description": "Location: [[Vice City]]<br/>On the bench in front of the showers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "263",
+			"position": [
+				893.91,
+				2221.72
+			],
+			"popup": {
+				"title": "Delights card: Mario",
+				"description": "Location: [[Port Gellhorn]]<br/>Upstairs, outdoors.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "264",
+			"position": [
+				1895.78,
+				1918.13
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Mr. I",
+				"description": "Location: [[Vice City]]<br/>On top of the wooden scaffolding/staircase.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "265",
+			"position": [
+				1509.06,
+				658.91
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Blood Smith",
+				"description": "Location: [[Key Lento]]<br/>On the top level of the roof of the Badger building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "266",
+			"position": [
+				2016.25,
+				1790.78
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Noah Marcus",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "267",
+			"position": [
+				789.06,
+				2133.75
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Si-Woo Choo",
+				"description": "Location: [[Port Gellhorn]]<br/>In the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "268",
+			"position": [
+				795.63,
+				2148.28
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Judas Sterling",
+				"description": "Location: [[Port Gellhorn]]<br/>In the yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "269",
+			"position": [
+				772.81,
+				2098.75
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Bill Norton",
+				"description": "Location: [[Port Gellhorn]]<br/>On the roof, in the yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "270",
+			"position": [
+				1434.84,
+				2210.16
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Chibuike Bello",
+				"description": "Location: [[Ambrosia]]<br/>In the middle trailer, on the fridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "271",
+			"position": [
+				1441.56,
+				2203.59
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Capsule",
+				"description": "Location: [[Ambrosia]]<br/>On top of the toilet tank.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "272",
+			"position": [
+				1423.13,
+				2185.63
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Georgie Macklerath (Gold)",
+				"description": "Location: [[Ambrosia]]<br/>In the garage, by the wall.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "273",
+			"position": [
+				812.03,
+				1670.94
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Remy Herbert (Standard)",
+				"description": "Location: [[Capri]]<br/>In the garage with the gym, on the countertop in the back right corner.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

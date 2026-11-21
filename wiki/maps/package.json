@@ -506,6 +506,166 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				665,
+				2271.88
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Port Gellhorn]]<br/>On top of the garbage mountain, under the fridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				1418.59,
+				553.13
+			],
+			"popup": {
+				"title": "Money",
+				"description": "Location: [[Key Lento]]<br/>On the rooftop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				1423.13,
+				870.16
+			],
+			"popup": {
+				"title": "Swamp Car Trunk Stash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the trunk of an abandoned car in the swamp: ammo, a hunting rifle and packages of drugs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				1567.66,
+				716.72
+			],
+			"popup": {
+				"title": "Crystal Stash (Keyline Paint Shop)",
+				"description": "Location: [[Key Lento]]<br/>In a box next to the noticeboard inside the Keyline Paint Shop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				1311.56,
+				1851.56
+			],
+			"popup": {
+				"title": "Stranded Boat Cocaine",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a stranded boat: 3 half-kilos of cocaine and a machete.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				1931.72,
+				1124.06
+			],
+			"popup": {
+				"title": "Cash and Cocaine Stash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the window, on the floor. You won't like what you see.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				614.84,
+				1550.78
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to the sunken ship, among a group of flamingos: use Focus to make it light up.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				671.56,
+				1517.19
+			],
+			"popup": {
+				"title": "Cocaine Flamingos (dock)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>3 cocaine flamingos: 1 on the dock next to the dead man, the other 2 closer to the music. Use Focus to find them.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				892.81,
+				2146.25
+			],
+			"popup": {
+				"title": "Purple Drank",
+				"description": "Location: [[Port Gellhorn]]<br/>In the red open train car, next to the collectible card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				1606.56,
+				763.59
+			],
+			"popup": {
+				"title": "Cannabis Stash (gas station roof)",
+				"description": "Location: [[Key Lento]]<br/>On the roof of the gas station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

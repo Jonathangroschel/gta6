@@ -2170,6 +2170,294 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "135",
+			"position": [
+				1747.34,
+				1712.34
+			],
+			"popup": {
+				"title": "Principe Emilio's Lectro",
+				"description": "Location: [[Vice City]]<br/>A variant of the Principe Lectro, in Emilio's garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "136",
+			"position": [
+				1627.97,
+				765.63
+			],
+			"popup": {
+				"title": "Spiderweb Coquette",
+				"description": "Location: [[Key Lento]]<br/>In the garage downstairs. The code for the back door of the garage is on the photos upstairs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "137",
+			"position": [
+				2081.88,
+				1930.94
+			],
+			"popup": {
+				"title": "Maverick (helicopter)",
+				"description": "Location: [[Vice Beach]]<br/>On the roof of the hospital.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "138",
+			"position": [
+				776.09,
+				2103.28
+			],
+			"popup": {
+				"title": "Buzzard (helicopter)",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "139",
+			"position": [
+				1259.69,
+				1132.19
+			],
+			"popup": {
+				"title": "Sea Sparrow (helicopter)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "140",
+			"position": [
+				877.34,
+				2041.09
+			],
+			"popup": {
+				"title": "Bravado Banshee",
+				"description": "Location: [[Port Gellhorn]]<br/>At the Port Gellhorn raceway, between the stands.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "141",
+			"position": [
+				1472.34,
+				618.91
+			],
+			"popup": {
+				"title": "Seashark Sedna (Graffiti)",
+				"description": "Location: [[Key Lento]]<br/>Graffiti version.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "142",
+			"position": [
+				937.34,
+				2302.66
+			],
+			"popup": {
+				"title": "MER-CAN Outlaw Love Buggy",
+				"description": "Location: [[Port Gellhorn]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "143",
+			"position": [
+				1048.13,
+				1378.44
+			],
+			"popup": {
+				"title": "Gator Shack Bison",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Parked at the Gator Shack.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "144",
+			"position": [
+				997.34,
+				1221.56
+			],
+			"popup": {
+				"title": "Blazing Mallard",
+				"description": "Location: [[Watson Bay]]<br/>Flame-painted Mallard plane in the hangar.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "145",
+			"position": [
+				1865.94,
+				1886.88
+			],
+			"popup": {
+				"title": "Pegassi Tempesta (Off-Road Kit)",
+				"description": "Location: [[Vice City]]<br/>Tempesta with the off-road kit.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "146",
+			"position": [
+				1766.88,
+				1815
+			],
+			"popup": {
+				"title": "Pfister Growler (Vanessa's)",
+				"description": "Location: [[Vice City]]<br/>Vanessa's pink Pfister Growler can be unlocked here, and the garage it is in becomes yours.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "147",
+			"position": [
+				1621.41,
+				750.16
+			],
+			"popup": {
+				"title": "Akane (custom paint job)",
+				"description": "Location: [[Key Lento]]<br/>A random encounter in the house; the car is in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "148",
+			"position": [
+				926.09,
+				2279.69
+			],
+			"popup": {
+				"title": "Driveshaft Legends: Marshall",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "149",
+			"position": [
+				1138.28,
+				1120
+			],
+			"popup": {
+				"title": "Imponte Soaring Phoenix",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "150",
+			"position": [
+				1876.88,
+				1875.63
+			],
+			"popup": {
+				"title": "Albany Sunrise Emperor",
+				"description": "Location: [[Vice City]]<br/>Parked in the alley with the murals.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "151",
+			"position": [
+				796.41,
+				1693.13
+			],
+			"popup": {
+				"title": "Pegassi Splattered Vitello",
+				"description": "Location: [[Capri]]<br/>In front of the house covered in paint.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "152",
+			"position": [
+				866.88,
+				1990.47
+			],
+			"popup": {
+				"title": "Annis Elegy (Drift)",
+				"description": "Location: [[Port Gellhorn]]<br/>Drift-spec Elegy in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -1050,6 +1050,406 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				1065.78,
+				2458.59
+			],
+			"popup": {
+				"title": "Plane Crash (highway)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Driving on the highway you see a small plane trailing black smoke. Follow it to where it crashes on the nearby hill.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1024.22,
+				2165.63
+			],
+			"popup": {
+				"title": "UFO Believer (Human Sibling)",
+				"description": "Location: [[Port Gellhorn]]<br/>A man standing on the hood of his pickup talks to you about UFOs. May only appear after the nearby UFO encounter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1899.84,
+				1911.41
+			],
+			"popup": {
+				"title": "Influencer Livestreaming on Bridge",
+				"description": "Location: [[Vice City]]<br/>A man on the bridge is livestreaming.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				881.41,
+				2073.13
+			],
+			"popup": {
+				"title": "Undercover Cop Torture",
+				"description": "Location: [[Port Gellhorn]]<br/>In this warehouse two men are torturing a tied-up plain-clothes police officer. Listen in, or kill them and untie the cop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				1348.28,
+				2741.25
+			],
+			"popup": {
+				"title": "Polar Bear Activists",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Activists trying to free polar bears.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				1863.91,
+				1762.03
+			],
+			"popup": {
+				"title": "Car Accident",
+				"description": "Location: [[Vice City]]<br/>A car crash with a bag you can steal.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				965.94,
+				2285.16
+			],
+			"popup": {
+				"title": "Stash Bust",
+				"description": "Location: [[Port Gellhorn]]<br/>Cops have seized $1,200 of product. Kill them to take the bag and sell it at Dunks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1412.5,
+				1849.06
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A vehicle stuck by the water, the driver asks for help. Open the back door: a tiger jumps out and eats him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				886.41,
+				1679.38
+			],
+			"popup": {
+				"title": "The Ritual of Sacrifice",
+				"description": "Location: [[Capri]]<br/>Inside the building there is an icon: bring a human corpse to it to start a mini-quest.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				1560.47,
+				733.91
+			],
+			"popup": {
+				"title": "Shirley, the Neighbor",
+				"description": "Location: [[Key Lento]]<br/>Shirley offers two side jobs during the chapter: bring her a bottle of rum, and steal her friend's scooter. In return you may use her car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				1304.84,
+				747.03
+			],
+			"popup": {
+				"title": "Merman Encounter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man in a mermaid tail lies on the beach, livestreaming. He allows at least 2 selfies; take more for a surprise.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				1293.91,
+				930.47
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A tribal statue made of wood and plants, painted in bright colors.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				1376.72,
+				1910.47
+			],
+			"popup": {
+				"title": "Wounded Hunter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A hunter has been shot and needs to be taken to hospital.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				860.31,
+				2174.84
+			],
+			"popup": {
+				"title": "Junkie Car Theft",
+				"description": "Location: [[Port Gellhorn]]<br/>A junkie asks you to help her steal a car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				1682.5,
+				1713.59
+			],
+			"popup": {
+				"title": "Warehouse Hostage",
+				"description": "Location: [[Vice City]]<br/>Two men are holding a man hostage in the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				1086.41,
+				2000.78
+			],
+			"popup": {
+				"title": "Stranded Race Driver",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A race driver has broken down on the side of the road and asks for a ride to a race before it's too late.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				1525.63,
+				1034.53
+			],
+			"popup": {
+				"title": "Store Hostage Rescue",
+				"description": "Location: [[Hamlet]]<br/>A vehicle with an open trunk and a trail of blood leading into the building, where M7 are beating and torturing the manager.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				1130.94,
+				2271.56
+			],
+			"popup": {
+				"title": "Farm Wife Asking for Help",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A woman in a robe with a flashlight asks you to help her husband, who has had an accident, in their house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				1706.88,
+				2040.16
+			],
+			"popup": {
+				"title": "Car Accident (truck crash)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A Sahara Mirage truck crashes into a car. The driver asks you to lie for him and promises you money if he gets a settlement.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				1215.94,
+				2121.09
+			],
+			"popup": {
+				"title": "Tutsi the Cow",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Catch Tutsi the cow.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				1624.69,
+				1675.94
+			],
+			"popup": {
+				"title": "Captive Ex-Cop",
+				"description": "Location: [[Vice City]]<br/>Free the captured ex-cop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				1044.38,
+				2159.53
+			],
+			"popup": {
+				"title": "Beefslap",
+				"description": "Location: [[Port Gellhorn]]<br/>A man is standing on top of his broken-down car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				1567.97,
+				729.06
+			],
+			"popup": {
+				"title": "Yard Sale (Gary the alligator)",
+				"description": "Location: [[Key Lento]]<br/>A lady holds a yard sale with an alligator named Gary.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1546.25,
+				2918.75
+			],
+			"popup": {
+				"title": "Being Hunted",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>You get tranquilized and wake up in a storage container, where you have to fight for your life.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				1106.88,
+				1142.66
+			],
+			"popup": {
+				"title": "Cop Interrogated by Criminals",
+				"description": "Location: [[Watson Bay]]<br/>Criminals are interrogating a cop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

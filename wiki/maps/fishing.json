@@ -586,6 +586,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				1570.31,
+				300
+			],
+			"popup": {
+				"title": "Hotspot - Atlantic Spadefish",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Part of Cal's fishing quest.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

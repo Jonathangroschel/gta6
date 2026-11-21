@@ -842,6 +842,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				1599.69,
+				2192.19
+			],
+			"popup": {
+				"title": "Safe - Wash House",
+				"description": "Location: [[Ambrosia]]<br/>The code is right under the collectible card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				1857.5,
+				1797.34
+			],
+			"popup": {
+				"title": "Safe - Stormy",
+				"description": "Location: [[Vice City]]<br/>Safe code: 7869.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1632.97,
+				1148.75
+			],
+			"popup": {
+				"title": "Safe - Drug Warehouse",
+				"description": "Location: [[Vice City]]<br/>In the office of the warehouse where a gunfight left everyone dead. Lots to take: guns, a rare card, cocaine and cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1482.03,
+				2305
+			],
+			"popup": {
+				"title": "Safe - Room 115",
+				"description": "Location: [[Ambrosia]]<br/>Safe code: 4242.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
