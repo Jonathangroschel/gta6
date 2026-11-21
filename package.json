@@ -1,0 +1,48 @@
+{
+  "name": "open-gta6-map",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.21.0",
+  "engines": {
+    "node": ">=24.2"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "pnpm districts && pnpm validate && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "validate": "node scripts/validate-data.ts",
+    "districts": "node scripts/build-districts.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@solidjs/web": "2.0.3",
+    "leaflet": "1.9.4",
+    "solid-js": "2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "8.1.2",
+    "@eslint/js": "10.0.1",
+    "@solidjs/babel-plugin": "2.0.2",
+    "@solidjs/vite-plugin": "3.0.1",
+    "@types/d3-delaunay": "6.0.4",
+    "@types/leaflet": "1.9.22",
+    "@types/node": "^24.19.2",
+    "d3-delaunay": "6.0.4",
+    "eslint": "10.15.0",
+    "eslint-plugin-solid": "0.20.1",
+    "globals": "17.14.0",
+    "jiti": "2.7.0",
+    "polyclip-ts": "0.16.8",
+    "prettier": "3.10.1",
+    "simplify-js": "1.2.4",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.73.0",
+    "vite": "8.3.8",
+    "vitest": "5.1.1"
+  }
+}

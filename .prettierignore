@@ -1,0 +1,4 @@
+# Served as-is: data is edited by contributors and diffed line by line, so it keeps its own format.
+public/
+dist/
+pnpm-lock.yaml
