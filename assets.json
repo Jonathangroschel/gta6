@@ -25,6 +25,7 @@
   "pins": {
     "url": "icons/pins/{type}.webp",
     "types": [
+      "ahol-street-art",
       "ammu-nation",
       "arcade",
       "atm",
