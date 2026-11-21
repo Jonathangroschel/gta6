@@ -1,0 +1,1184 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Store Robbery",
+			"color": "#8ecae6",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-10646,
+				30886.5
+			],
+			"popup": {
+				"title": "247 - Key Lento",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A 24/7 supermarket in Key Lento.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-8975,
+				15120.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - Southside",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A grocery store on El Joven Boulevard, Southside, Vice City.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-5679,
+				-3520.5
+			],
+			"popup": {
+				"title": "Vetiver Minimarket",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A minimarket in La Perle, Vice City.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-14636,
+				35635
+			],
+			"popup": {
+				"title": "Leonida Key Lento Mini Mart",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A convenience store in Key Lento.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-14413,
+				20908.5
+			],
+			"popup": {
+				"title": "Hamlet Convenience Store",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A convenience store in Hamlet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-6243.5,
+				-28198
+			],
+			"popup": {
+				"title": "Trotman's Super Market",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A convenience store in Millport.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-2133,
+				-17031.5
+			],
+			"popup": {
+				"title": "247 - Waning Sands",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-971.5,
+				-5516.5
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Bayside",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Convenience store located on the upper left corner of Bayside, on Coral Ave.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-9160,
+				13023.5
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Southside",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-6964,
+				12998
+			],
+			"popup": {
+				"title": "Wells Rosa",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-21124,
+				16019
+			],
+			"popup": {
+				"title": "Xero Food Mart - Grassrivers",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-17003,
+				18949
+			],
+			"popup": {
+				"title": "Leonida Truck Stop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-13542.5,
+				19407
+			],
+			"popup": {
+				"title": "LTD Food Mart - Hamlet",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-26339,
+				20076.5
+			],
+			"popup": {
+				"title": "Jim's Mini Mart",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-11783.5,
+				20081.5
+			],
+			"popup": {
+				"title": "247 - Hamlet",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-13535,
+				20629
+			],
+			"popup": {
+				"title": "Ramon's Groceries",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-14709,
+				21278
+			],
+			"popup": {
+				"title": "Globe Oil Food Center - Hamlet",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-25273.5,
+				21286
+			],
+			"popup": {
+				"title": "Poppers Convenience Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-24852,
+				21067
+			],
+			"popup": {
+				"title": "Randy's Big Gas Mart",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				-32556.5,
+				36200
+			],
+			"popup": {
+				"title": "Xero Food Mart - Southwind",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-2744.5,
+				-4003
+			],
+			"popup": {
+				"title": "247 - Bayside",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-10960.5,
+				-1566.5
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Balsero",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-27203,
+				-1348.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - South Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-14404.5,
+				-443
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Balsero",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-18763,
+				476
+			],
+			"popup": {
+				"title": "Xero Food Mart - Buckskin Swamp 1",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-34892.5,
+				1444
+			],
+			"popup": {
+				"title": "LTD Food Mart - Capri",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-9789,
+				2267
+			],
+			"popup": {
+				"title": "Delgado & Sons",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-23063,
+				3010.5
+			],
+			"popup": {
+				"title": "247 - West Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-5140.5,
+				3647.5
+			],
+			"popup": {
+				"title": "247 - Downtown",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-5883.5,
+				3100.5
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Little Cuba",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-10509.5,
+				3287.5
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Salton",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-8443,
+				4589.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - Salton",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				-33317.5,
+				5109
+			],
+			"popup": {
+				"title": "Xero Food Mart - Capri",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				-4585,
+				5508.5
+			],
+			"popup": {
+				"title": "Quick Picks Mini Mart",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				-31800.5,
+				8061
+			],
+			"popup": {
+				"title": "Xero Food Mart - Grassrivers",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				-6144.5,
+				8605.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - Tequesta",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-3737.5,
+				-5423
+			],
+			"popup": {
+				"title": "Xero Food Mart - La Perle",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				7637,
+				-4514.5
+			],
+			"popup": {
+				"title": "RON Stop'N'Snack - Washington Beach",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				9097,
+				-2399.5
+			],
+			"popup": {
+				"title": "A&L Surf Mart",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				-5024.5,
+				-298.5
+			],
+			"popup": {
+				"title": "Hugo's Quick-Mart",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				-4535.5,
+				-796.5
+			],
+			"popup": {
+				"title": "XYZ Market",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				-7078.5,
+				-855
+			],
+			"popup": {
+				"title": "Xero Food Mart - Rockridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				-7039,
+				117
+			],
+			"popup": {
+				"title": "Rico's Convenience Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				-6085.5,
+				501
+			],
+			"popup": {
+				"title": "Emilio's Auto Center Food Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				-4447.5,
+				863.5
+			],
+			"popup": {
+				"title": "Globe Oil Food Center - Crosstown",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				8450,
+				2594.5
+			],
+			"popup": {
+				"title": "247 - Ocean Beach",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				7471,
+				3552
+			],
+			"popup": {
+				"title": "LTD Food Mart - Ocean Beach",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				8373.5,
+				3938.5
+			],
+			"popup": {
+				"title": "¡Superprecios! Market",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				200.5,
+				-16019.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - Waning Sands",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				-4573.5,
+				-10523.5
+			],
+			"popup": {
+				"title": "Alpha Convenience Store - Belville",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				4090,
+				-10377.5
+			],
+			"popup": {
+				"title": "247 - Washington Beach",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				-9607,
+				-9361
+			],
+			"popup": {
+				"title": "247 - Belville",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				-7726.5,
+				-8428
+			],
+			"popup": {
+				"title": "Xero Food Mart - Belville",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				-7738.5,
+				-27660
+			],
+			"popup": {
+				"title": "247 - Millport",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				-6988.5,
+				-27601
+			],
+			"popup": {
+				"title": "Xero Food Mart - Millport",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				-14614,
+				-17716.5
+			],
+			"popup": {
+				"title": "Cane Grocery",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				-13927,
+				-16628
+			],
+			"popup": {
+				"title": "Xero Food Mart - Ambrosia",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				-17483,
+				-9918
+			],
+			"popup": {
+				"title": "247 - Emerald Springs",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				-20646,
+				-24429
+			],
+			"popup": {
+				"title": "Bunch Farms Country Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				-27044,
+				-13752
+			],
+			"popup": {
+				"title": "Alpha Convenience Store - Gellhorn",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				-33337,
+				-13868.5
+			],
+			"popup": {
+				"title": "Sarena's Bargain Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				-32431.5,
+				-13504.5
+			],
+			"popup": {
+				"title": "247 - Port Gellhorn",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				-32276,
+				-12358.5
+			],
+			"popup": {
+				"title": "Dale's Shopwell",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				-19405,
+				-10577.5
+			],
+			"popup": {
+				"title": "Tucker's Citrus Farms",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				-32312,
+				-9591
+			],
+			"popup": {
+				"title": "Eager Beaver Express",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				-16410,
+				-30714.5
+			],
+			"popup": {
+				"title": "Redshaw's General Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				-29428.5,
+				-28948.5
+			],
+			"popup": {
+				"title": "Huck's Pump N Go",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				-20833.5,
+				-31739
+			],
+			"popup": {
+				"title": "247 - West Kalaga",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				-20607,
+				-6461.5
+			],
+			"popup": {
+				"title": "Emerald Springs Country Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				-6080.5,
+				-1842.5
+			],
+			"popup": {
+				"title": "Blessed Food Market",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				-4148,
+				-1592.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - Crosstown",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				-18430.5,
+				4.5
+			],
+			"popup": {
+				"title": "Xero Food Mart - Buckskin Swamp 2",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

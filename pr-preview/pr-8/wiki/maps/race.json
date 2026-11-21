@@ -1,0 +1,880 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Race",
+			"color": "#06d6a0",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-17090,
+				-27996
+			],
+			"popup": {
+				"title": "Mount Kalaga - Cycling Trial",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the summit of Mount Kalaga",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-16278.5,
+				-30844
+			],
+			"popup": {
+				"title": "Animal Crackers - Mountainside",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-16305.5,
+				-30823.5
+			],
+			"popup": {
+				"title": "Animal Crackers - Strip Mine",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-29469.5,
+				-28851.5
+			],
+			"popup": {
+				"title": "Animal Crackers - Red Canyon Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-29450.5,
+				-28851.5
+			],
+			"popup": {
+				"title": "Animal Crackers - Farm Tour",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-7831.5,
+				-28480
+			],
+			"popup": {
+				"title": "Animal Crackers - Log Jam",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-7855.5,
+				-28479.5
+			],
+			"popup": {
+				"title": "Animal Crackers - Golf Tour",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-2772.5,
+				-21030
+			],
+			"popup": {
+				"title": "Waning Sands - Motocross Stunt Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-20042.5,
+				-20886
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Oval Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-19153.5,
+				-20843.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Drag Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-20266,
+				-20818.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Skid Loop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-20251.5,
+				-20813
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Figure 8 Blitz",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-19264.5,
+				-20677
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Swamp Run Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-20655,
+				-20405
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Air Time Stunt Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-19381.5,
+				-20230
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Hill Climb Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-15116,
+				-19977
+			],
+			"popup": {
+				"title": "Ambrosia Raceway - Oval",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-15092,
+				-19965.5
+			],
+			"popup": {
+				"title": "Ambrosia Raceway - Figure 8",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-20819,
+				-19354.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Big Mud",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-20826.5,
+				-19343.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Hog Hustle",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				-20833.5,
+				-19332
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Muck Scramble",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-20839,
+				-19320
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Dirt Slam",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-20846,
+				-19308.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Sludge Rush",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-20852.5,
+				-19296.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Trash Dash",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-15499,
+				-19196.5
+			],
+			"popup": {
+				"title": "Ambrosia Raceway - Raceway Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-21861.5,
+				-17611.5
+			],
+			"popup": {
+				"title": "Thrillbilly Mud Club - Dirt Track Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-34125.5,
+				-9715.5
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Dragway Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-34270.5,
+				-7586
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Long Loop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-34280.5,
+				-7576.5
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Intermediate Loop CCW",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-34290.5,
+				-7566.5
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Short Loop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-34299.5,
+				-7556
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Basic Loop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-34131,
+				-7517.5
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Introduction",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-34724,
+				-7069
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Full Loop CCW",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				-34741,
+				-7047.5
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Long Loop CCW",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				-34755,
+				-7024.5
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Short Loop CCW",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				-34861.5,
+				-6909
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Full Loop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				-34267.5,
+				-6893
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Raceway Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-34878,
+				-6892
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Intermediate Loop",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				-34894.5,
+				-6872
+			],
+			"popup": {
+				"title": "Gellhorn Raceway - Basic Loop CCW",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				-3803,
+				-5568
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Little Cuba Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				-3775.5,
+				-5554
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Mural Tour",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				6509,
+				-2466.5
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Beach Blast",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				6490,
+				-2464.5
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Rialto Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				-7224,
+				6270.5
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Airport Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				-7236.5,
+				6277
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Freeway Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				-7250,
+				6283.5
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Shoreline",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				2764,
+				13345.5
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - The Tunnel",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				2767,
+				13360.5
+			],
+			"popup": {
+				"title": "Hit 'N' Run VC - Port Cruise",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				-24140.5,
+				16457
+			],
+			"popup": {
+				"title": "Animal Crackers - Wetlands Circuit",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				-24117,
+				16477
+			],
+			"popup": {
+				"title": "Animal Crackers - Landfill",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				-13529.5,
+				19649.5
+			],
+			"popup": {
+				"title": "Hamlet - BMX Stunt Run",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				-16070,
+				20969.5
+			],
+			"popup": {
+				"title": "Boone Speedway - Speedway Trial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				-16602,
+				21563.5
+			],
+			"popup": {
+				"title": "Boone Speedway - Oval",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				-16582,
+				21584.5
+			],
+			"popup": {
+				"title": "Boone Speedway - Figure 8",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

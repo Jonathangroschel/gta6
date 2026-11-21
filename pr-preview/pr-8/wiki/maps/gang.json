@@ -1,0 +1,64 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Gang Operation",
+			"color": "#d62828",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-9220,
+				13305
+			],
+			"popup": {
+				"title": "PTT Youngin$ Compound",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>The compound of one of Southside Vice City's loudest gangs. Raid it and get away to score special items and contraband. Part of the Ultimate Edition.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-4810,
+				-9730
+			],
+			"popup": {
+				"title": "Drumboyz",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scouse gang",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

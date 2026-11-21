@@ -1,0 +1,1488 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "WAiNK Scan",
+			"color": "#7ae582",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-27012,
+				-36525.5
+			],
+			"popup": {
+				"title": "Wreck of the Meerwunder",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-27699,
+				-35274.5
+			],
+			"popup": {
+				"title": "C0-B8 Fairing",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-21757,
+				-34908.5
+			],
+			"popup": {
+				"title": "C0-B8 Engine",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-30283.5,
+				-34123
+			],
+			"popup": {
+				"title": "C0-B8 Debris",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-22591,
+				-32728.5
+			],
+			"popup": {
+				"title": "Fossilized Prints",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-7127,
+				-30488
+			],
+			"popup": {
+				"title": "Intriguing Substance",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-28156,
+				-30231.5
+			],
+			"popup": {
+				"title": "Grayson Assembly",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-28711.5,
+				-28958
+			],
+			"popup": {
+				"title": "Pet Cemetery",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-27857.5,
+				-28778
+			],
+			"popup": {
+				"title": "Fairy Lane",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-23589,
+				-26827.5
+			],
+			"popup": {
+				"title": "Imperial Spanish Ruins",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-25621,
+				-25659.5
+			],
+			"popup": {
+				"title": "Lovers Lookout",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-16609.5,
+				-16207.5
+			],
+			"popup": {
+				"title": "Spaceship House",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-23197.5,
+				-14984.5
+			],
+			"popup": {
+				"title": "Dino Golf",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-16589,
+				-14580
+			],
+			"popup": {
+				"title": "Anti Sugar Residence",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-23280.5,
+				-9297
+			],
+			"popup": {
+				"title": "Selkie Hole",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-6154.5,
+				-9015
+			],
+			"popup": {
+				"title": "Belville Topiary",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-21031.5,
+				-6016
+			],
+			"popup": {
+				"title": "Deserted Home",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-21207.5,
+				-5230
+			],
+			"popup": {
+				"title": "Camp Moonflower",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-46234,
+				-4813
+			],
+			"popup": {
+				"title": "Hovercraft Crash",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				9516,
+				2531.5
+			],
+			"popup": {
+				"title": "Promotional Sand Vehicles",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-33880,
+				3935.5
+			],
+			"popup": {
+				"title": "Halloween House",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				8711,
+				10921.5
+			],
+			"popup": {
+				"title": "Big Entrance",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				326,
+				12373
+			],
+			"popup": {
+				"title": "Mermaid Display",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-25156,
+				18583.5
+			],
+			"popup": {
+				"title": "Unidentified Animal Pen (UAP)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-24714,
+				25391.5
+			],
+			"popup": {
+				"title": "NoFlusher Homestead",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-23353,
+				27203
+			],
+			"popup": {
+				"title": "Wetman Bay Carcass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-21277.5,
+				28400.5
+			],
+			"popup": {
+				"title": "Dead Sharks",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-17602.5,
+				30099.5
+			],
+			"popup": {
+				"title": "Vibrant Pond",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-19960.5,
+				31794
+			],
+			"popup": {
+				"title": "Desert Island Piano",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-33727,
+				33185
+			],
+			"popup": {
+				"title": "Goose Key Carcass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-14513.5,
+				34903
+			],
+			"popup": {
+				"title": "Christmas House",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-30120,
+				35020
+			],
+			"popup": {
+				"title": "Beach Party Site",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				-30466.5,
+				35384.5
+			],
+			"popup": {
+				"title": "Fingerpost",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				-15229.5,
+				35677.5
+			],
+			"popup": {
+				"title": "Plunge Masters Deep Sea Chalet",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				-22993.5,
+				41352
+			],
+			"popup": {
+				"title": "Abismo Key Carcass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				-18407,
+				-36600.5
+			],
+			"popup": {
+				"title": "Outlaw's Cabin",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-21292,
+				-36551.5
+			],
+			"popup": {
+				"title": "Bonanza Giant",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				-21009,
+				-32803.5
+			],
+			"popup": {
+				"title": "Lawton Co. Paper Mill",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				-13044,
+				-31105
+			],
+			"popup": {
+				"title": "Tallaloko Amphitheater",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				-21151,
+				-27969
+			],
+			"popup": {
+				"title": "Kalaga Lookout",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				-21923.5,
+				-27575.5
+			],
+			"popup": {
+				"title": "Grayson Cairns",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				2723,
+				-27506
+			],
+			"popup": {
+				"title": "St. Lucia Lighthouse",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				-22762,
+				-22640
+			],
+			"popup": {
+				"title": "Hoffman Observatory",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				33.5,
+				-22328.5
+			],
+			"popup": {
+				"title": "Unidentified Building",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				-29796.5,
+				-22192.5
+			],
+			"popup": {
+				"title": "Farmer Scrumpy's Apple Orchard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				-17436.5,
+				-17056
+			],
+			"popup": {
+				"title": "Old Goliath",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				-25867.5,
+				-12773
+			],
+			"popup": {
+				"title": "Howe Dairy Farm's Big Udder",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				-38221.5,
+				-12054.5
+			],
+			"popup": {
+				"title": "Wild Hog Point Radar Base",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				-33289.5,
+				-12008.5
+			],
+			"popup": {
+				"title": "Gellhorn Fun Fair",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				-20198.5,
+				-10676.5
+			],
+			"popup": {
+				"title": "Tucker's Citrus Farms Water Tower",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				-21553.5,
+				-8985
+			],
+			"popup": {
+				"title": "Sky Ride",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				-8659.5,
+				-1072
+			],
+			"popup": {
+				"title": "Fleeca Field",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				-2451.5,
+				1770
+			],
+			"popup": {
+				"title": "Sahara Arena",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				-497,
+				3512
+			],
+			"popup": {
+				"title": "Dock Ring",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				-2413.5,
+				4539
+			],
+			"popup": {
+				"title": "IAA's Friends of Freedom",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				-2267.5,
+				5795
+			],
+			"popup": {
+				"title": "Downtown Periscope",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				-19458,
+				6462.5
+			],
+			"popup": {
+				"title": "Vice City Sign",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				-40543.5,
+				6660
+			],
+			"popup": {
+				"title": "Belpoint Lighthouse",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				2368,
+				13388.5
+			],
+			"popup": {
+				"title": "Aqua Stadium",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				-1922.5,
+				13741
+			],
+			"popup": {
+				"title": "Courtland Park Stadium",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				-33379,
+				16159.5
+			],
+			"popup": {
+				"title": "Bobcat Key Experimental Home",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				-19371,
+				17721
+			],
+			"popup": {
+				"title": "Pelican valley Observation Tower",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				-13865,
+				34332.5
+			],
+			"popup": {
+				"title": "Badger R&D Tower",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				-28416.5,
+				37764.5
+			],
+			"popup": {
+				"title": "Derelict Spy Vessel",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				-41071,
+				38197
+			],
+			"popup": {
+				"title": "Riquezas Keys Radome",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				-25217.5,
+				40011
+			],
+			"popup": {
+				"title": "Thicc Herbie",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				-13901.5,
+				-33547.5
+			],
+			"popup": {
+				"title": "Junkyard T-Rex",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				-24869,
+				-31150.5
+			],
+			"popup": {
+				"title": "Chariot to Valhalla",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				-5367.5,
+				-30092
+			],
+			"popup": {
+				"title": "Mother Rushwood",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				-29999.5,
+				-23600
+			],
+			"popup": {
+				"title": "Monument of Leonidan Supremacy",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				-24828,
+				-17607
+			],
+			"popup": {
+				"title": "Thrillbilly Mascot",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				-30274.5,
+				-13787.5
+			],
+			"popup": {
+				"title": "Monument of Leonida",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				5825,
+				-9584.5
+			],
+			"popup": {
+				"title": "Neptune Rises",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				-1169,
+				-5947
+			],
+			"popup": {
+				"title": "Gimme All Your Oil",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				9319.5,
+				-3653.5
+			],
+			"popup": {
+				"title": "Princess Robot Bubblegum Statue",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				-1906,
+				-3145
+			],
+			"popup": {
+				"title": "Catalan Blvd Garden",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				8552.5,
+				-3076.5
+			],
+			"popup": {
+				"title": "Vice Museum of Art Sculpture",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				-21352,
+				-1648
+			],
+			"popup": {
+				"title": "Buckskin Swamp Totem",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				3375,
+				-501.5
+			],
+			"popup": {
+				"title": "Blanco Memorial",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				-1085,
+				721
+			],
+			"popup": {
+				"title": "Flam Gummies",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				-33810,
+				2184.5
+			],
+			"popup": {
+				"title": "The Grand Turkey of Capri",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				7226.5,
+				5758.5
+			],
+			"popup": {
+				"title": "Large Lure",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				-2511,
+				6101
+			],
+			"popup": {
+				"title": "Leonida Snow",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				-4388,
+				8506
+			],
+			"popup": {
+				"title": "Pixel Fountain",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				-6436,
+				13761.5
+			],
+			"popup": {
+				"title": "Colossus",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				-7942.5,
+				27612.5
+			],
+			"popup": {
+				"title": "Triangler Sculpture",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				-14149,
+				27772.5
+			],
+			"popup": {
+				"title": "Grassrivers Visitor Center Status",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				-15327,
+				36325.5
+			],
+			"popup": {
+				"title": "The Wonder Whale",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				-17599.5,
+				38425
+			],
+			"popup": {
+				"title": "Fatal Incursion Plaque",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				-27335,
+				-13350
+			],
+			"popup": {
+				"title": "\"Help me, help you, help me\"",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the table next to the entrance",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				-13235,
+				27165
+			],
+			"popup": {
+				"title": "QR Code",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scan the QR code to start a mission.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

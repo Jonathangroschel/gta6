@@ -1,0 +1,512 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Hidden Package",
+			"color": "#ffb703",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-1970,
+				30110
+			],
+			"popup": {
+				"title": "Shipwreck",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Underwater shipwreck. Player directed here as a part of a side mission for Kenton",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-20495,
+				24575
+			],
+			"popup": {
+				"title": "Easter Egg: Giant Grab",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Enter a dead spot and activate the power box, the same one you use when entering the house. Go to the left room, interact with the paper, and use the last word as the computer password. Access the computer to get your sentence. Then, go to the safe in the house and enter the code “0072” to collect your items. Walk to the back, where you can explore for small health items. Find the dock, keep walking, and you’ll find a pin “0212” you will find a mp5 and $10k",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-31185,
+				36680
+			],
+			"popup": {
+				"title": "Jewellery Lockbox ($300)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>$300 of Jewellery in a lockbox on the wrecked boat on the western side of this island",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-30230,
+				34995
+			],
+			"popup": {
+				"title": "Stamped Magazine Tattoo Scan",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the floor, up the ramp on the shack with the UV Bug zapper",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-30150,
+				35065
+			],
+			"popup": {
+				"title": "Scuba Gear",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scuba Gear on the small white boat next to the shack (not the black RIB boat).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-20035,
+				29015
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Destroy the flamingo to find two half cocaine bricks",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-30230,
+				35040
+			],
+			"popup": {
+				"title": "Cocaine Flamingo (beach party)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the beach party",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-40010,
+				37825
+			],
+			"popup": {
+				"title": "Half Brick of Cocaine",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the door of the southern-most building on the east side of the island. Room also contains beer, E Cola and chips",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-5465,
+				24270
+			],
+			"popup": {
+				"title": "Easter Egg: QR Code (NoFlushers)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A QR code on a \"Stop! Don't flush\" poster. It leads to a seized FIB page on Rockstar's website.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-18630,
+				43815
+			],
+			"popup": {
+				"title": "Two Bags of Cocaine ($640)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two bags of cocaine, worth $640 in total.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-40160,
+				37715
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the same building as the other cocaine, among the candles.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-31175,
+				36650
+			],
+			"popup": {
+				"title": "Money Box ($398)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>$398 in a box on an abandoned white boat, on the west side of the island facing the town.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-20350,
+				27125
+			],
+			"popup": {
+				"title": "Speed Boat Cocaine",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Jump on the boat to open the latch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-27710,
+				40620
+			],
+			"popup": {
+				"title": "Small Bag of Drugs (under the bridge)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A small bag of drugs under the bridge",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-12370,
+				32350
+			],
+			"popup": {
+				"title": "Shrooms Stash ($240)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Three packs of shrooms in the old fridge wide-open, in front of the red trailer and next to collectible card",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-14405,
+				19545
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-11750,
+				35895
+			],
+			"popup": {
+				"title": "Weed Bricks",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the middle of the old tire, near the campment.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-32505,
+				36190
+			],
+			"popup": {
+				"title": "Bags of Acid ($300-$450)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>3-4 bags of Acid $300-$450 Located behind garage of gas station in crater use focus",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-32555,
+				35530
+			],
+			"popup": {
+				"title": "Lockbox ($244) - Boat House",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>$244 dollars in lock box in upstairs office of boat house - note people inside best at night",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				-34450,
+				-15525
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-20610,
+				19545
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the corner",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-11555,
+				33145
+			],
+			"popup": {
+				"title": "Cocaine Flamingo ($160)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>$160 half a brick of cocaine. In left from yard of house. Use focus to see highlighted in white",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-15135,
+				36855
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>There's a unique house here with a lot of weird decoration. There is a cocaine flamingo here with some cocaine (1 of 32)",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-21445,
+				26045
+			],
+			"popup": {
+				"title": "Bags of Acid (boat house)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the small boat house",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-5370,
+				24150
+			],
+			"popup": {
+				"title": "Shrooms Stash (toilet)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the toilet, next to the QR code (NoFlushers easter egg).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-6750,
+				-37765
+			],
+			"popup": {
+				"title": "Three Bags of Cocaine (floating box)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Three packets of cocaine under a floating box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				2185,
+				13400
+			],
+			"popup": {
+				"title": "Aqua Stadium Weed Stash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Drugs to sell: a secret weed grow on the bottom level behind a shutter, and more on a rusted walkway at the top of the seating.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-31445,
+				39050
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside a small building, on the table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-11260,
+				30130
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Lying on the ground in the corner between two trees, left of the fire hydrant.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-28235,
+				34060
+			],
+			"popup": {
+				"title": "Aviator Sunglasses",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a table in a small hut.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

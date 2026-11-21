@@ -1,0 +1,544 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Weapon Pickup",
+			"color": "#8d99ae",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-22910,
+				38815
+			],
+			"popup": {
+				"title": "Sniper Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On top of the tower there is an sniper rifle",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-28400,
+				37810
+			],
+			"popup": {
+				"title": "Assassin Pistol",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Check the middle of the ship wreck",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-31210,
+				33755
+			],
+			"popup": {
+				"title": "Legendary Shotgun",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to a wrecked smuggler's boat",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-14555,
+				36670
+			],
+			"popup": {
+				"title": "Gun Nut House",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-13835,
+				34345
+			],
+			"popup": {
+				"title": "Sniper SM69 - Early game",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-13205,
+				22235
+			],
+			"popup": {
+				"title": "Hobo Shotgun (Marabunta Grande warehouse)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the warehouse behind pawn shop",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-25525,
+				20700
+			],
+			"popup": {
+				"title": "Hobo Shotgun",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-25735,
+				19530
+			],
+			"popup": {
+				"title": "Molotov Cocktails",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-11780,
+				31120
+			],
+			"popup": {
+				"title": "Gun Nut House: SMS-01",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Go up the stairs to get the break-in prompt. The SMS-01 sniper rifle is in a gun case on the kitchen table. The house holds six weapons in all: the AR the gun nut carries, the sniper, a rocket launcher, an MG and two revolvers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-9630,
+				18360
+			],
+			"popup": {
+				"title": "Sticky Bombs",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside a crate in the large block enclosure.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-30440,
+				-2845
+			],
+			"popup": {
+				"title": "Laird 350 Sniper Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the top of the tower, in a corner.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-14920,
+				35400
+			],
+			"popup": {
+				"title": "Comshot 12",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-15700,
+				24815
+			],
+			"popup": {
+				"title": "Kingfishers Laird 350 (Legendary Sniper Rifle)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Manatee Motel, Pelican Valley: a fully upgraded legendary sniper rifle. Kill the tiger, then keep the wall to your right and go to the next room with the open door. There is also about $2,000 and some bricks of cocaine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-23105,
+				26370
+			],
+			"popup": {
+				"title": "Kingfishers W-22 (Legendary)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the main building connected to the pier.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-14430,
+				34625
+			],
+			"popup": {
+				"title": "Pump Shotgun",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Behind a door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-28465,
+				12290
+			],
+			"popup": {
+				"title": "Laird 350 Longarm Rifle (Hunters event reward)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>You get this rifle after the random event with the two hunters, once you've dropped the injured hunter at the hospital.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-19940,
+				28995
+			],
+			"popup": {
+				"title": "Kozlov KZ-59 Assault Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Assault rifle sitting on top of 55 gallon drum",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-11615,
+				30385
+			],
+			"popup": {
+				"title": "Golf Clubs",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the enterable low-level garage, there's a bag with golf clubs. You can choose 1 of 4 different types",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-11065,
+				32590
+			],
+			"popup": {
+				"title": "Los Santos Corkers Baseball Bat",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Los Santos Corkers Baseball Bat laying in the corner in that large warehouse when enter from the backyard. There's also a crowbar, sledgehammer and 3 types of hammer around the large hall",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				-13695,
+				-2760
+			],
+			"popup": {
+				"title": "M306 TMR Rifle (Black Eagle Import)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside a caged room inside of the warehouse (look for the room with the forklift in it). To access the gun you must use the forklift to move the stack of storage boxes",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-34390,
+				-16025
+			],
+			"popup": {
+				"title": "Darknite Drifter (Legendary)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the ammu nation shop at the entrance",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-40595,
+				37560
+			],
+			"popup": {
+				"title": "Deever Tech DSG, Girardi Super400, Fortune & Son Laird 350",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-34350,
+				-15470
+			],
+			"popup": {
+				"title": "Molotov Cocktails",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-20505,
+				24575
+			],
+			"popup": {
+				"title": "Crabshack VF5 SMG (Unique Variant)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>$8000 Marked Bills Screenshot from Norzza's youTube video.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-18495,
+				24565
+			],
+			"popup": {
+				"title": "Gold Revolver",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-18510,
+				24605
+			],
+			"popup": {
+				"title": "Sniper Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-26140,
+				41035
+			],
+			"popup": {
+				"title": "Baseball Bat",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Leaning on the railing of a wooden deck by the beach, next to a collectible card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-12660,
+				-1760
+			],
+			"popup": {
+				"title": "Conspiracist Type 9 SMG",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the trailer with all the antennas.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-32350,
+				-9460
+			],
+			"popup": {
+				"title": "Grenade Launcher",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Grenade launcher pickup in the alley behind the shops.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-15565,
+				-17040
+			],
+			"popup": {
+				"title": "Shrewsbury SM69 Sniper Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the roof of the tower in Ambrosia, next to the Immigrantasma (Blue) card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-10705,
+				30795
+			],
+			"popup": {
+				"title": "Scorpio Nipper .38",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Compact pistol on the roof of the 247 store in Key Lento.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-23105,
+				26290
+			],
+			"popup": {
+				"title": "Duke 556 Assault Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the seaplane, on top of the small building to the right of the water tank (facing the water).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

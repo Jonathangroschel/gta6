@@ -1,0 +1,704 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Drone Time Trial",
+			"color": "#90e0ef",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-18241,
+				-33647
+			],
+			"popup": {
+				"title": "Top Fun Drones - Abandoned Mining Pit",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-18226,
+				-33641
+			],
+			"popup": {
+				"title": "Top Fun Drones - Adler Creek",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-18211,
+				-33634
+			],
+			"popup": {
+				"title": "Top Fun Drones - MacAlister Gold Mine",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-4316.5,
+				-26688.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Tallaloko Lakeside Resort",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-4301,
+				-26672
+			],
+			"popup": {
+				"title": "Top Fun Drones - Rushwood Logging",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-4286.5,
+				-26655
+			],
+			"popup": {
+				"title": "Top Fun Drones - Millport",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-37667.5,
+				-21219.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Draper Refinery West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-37702.5,
+				-21203.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Draper Refinery East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-37734.5,
+				-21188
+			],
+			"popup": {
+				"title": "Top Fun Drones - Draper Island Terminal",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-28673.5,
+				-21068
+			],
+			"popup": {
+				"title": "Top Fun Drones - Port Gellhorn",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-28688,
+				-21066
+			],
+			"popup": {
+				"title": "Top Fun Drones - Red Apple Orchard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-28702,
+				-21063.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Manifest Canyon",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-2027.5,
+				-14117.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Evergreen Mall",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-2052,
+				-14112
+			],
+			"popup": {
+				"title": "Top Fun Drones - Thundergolf",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-2077,
+				-14106.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Hot Skidz",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-13976.5,
+				-12103.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Waste Transfer Services",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-13991.5,
+				-12096
+			],
+			"popup": {
+				"title": "Top Fun Drones - Allied Crystal",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-14006,
+				-12088.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Captain O'Malley Marina",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				6185.5,
+				-7079
+			],
+			"popup": {
+				"title": "Top Fun Drones - St. Vitus Medical Center",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				6174,
+				-7075.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Vice Regal Hotel",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				6162.5,
+				-7072.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Leaf Links",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-21696,
+				-450
+			],
+			"popup": {
+				"title": "Top Fun Drones - Camp Moonflower",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-21727,
+				-448.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Swampy Sal's Safari Park",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-21761,
+				-446
+			],
+			"popup": {
+				"title": "Top Fun Drones - Kowaachobee Village",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-14911.5,
+				244.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Tisha-Wocka Flea Market",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-14924.5,
+				248
+			],
+			"popup": {
+				"title": "Top Fun Drones - Apollo Aggregates",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-14939.5,
+				251
+			],
+			"popup": {
+				"title": "Top Fun Drones - Navitrak",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-32971,
+				1714.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Capri Lake",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-32998.5,
+				1716
+			],
+			"popup": {
+				"title": "Top Fun Drones - Ravella Drive",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-33028.5,
+				1718.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Capri Train Station",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-372,
+				3436
+			],
+			"popup": {
+				"title": "Top Fun Drones - Wildland Zoo",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-398,
+				3457.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Shoreline Market",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				-421,
+				3480.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Future Leonida Art Museum",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				8300,
+				8599
+			],
+			"popup": {
+				"title": "Top Fun Drones - Ivory Tower",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				8276.5,
+				8606.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - The Jamaica",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				8253.5,
+				8611.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Avarice Petroleum",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-20816,
+				18772.5
+			],
+			"popup": {
+				"title": "Top Fun Drones - Marshland Animal Park",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				-20832,
+				18777
+			],
+			"popup": {
+				"title": "Top Fun Drones - Watson Bay",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				-20847.5,
+				18781
+			],
+			"popup": {
+				"title": "Top Fun Drones - Leonida RC Raceway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				-11813.5,
+				20828
+			],
+			"popup": {
+				"title": "Top Fun Drones - Deep Roots",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				-11788.5,
+				20828
+			],
+			"popup": {
+				"title": "Top Fun Drones - Power Station South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				-11763.5,
+				20828
+			],
+			"popup": {
+				"title": "Top Fun Drones - Power Station North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

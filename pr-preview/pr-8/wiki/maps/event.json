@@ -1,0 +1,992 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Random Event",
+			"color": "#ff006e",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-15630,
+				29860
+			],
+			"popup": {
+				"title": "Swamp Monster",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Swamp monster heard screaming and killing a deer then running off into the forest with green smoke coming off it",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-17485,
+				20090
+			],
+			"popup": {
+				"title": "Bigfoot",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>You can hear roars and chase him through the marshes and I came across a wicker man and passed out. Came too in the marshes",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-25320,
+				-16925
+			],
+			"popup": {
+				"title": "Redneck Shooting Party",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two possibly intoxicated rednecks practising their aim in the middle of nowhere aaaaand.. you can join",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-15760,
+				23545
+			],
+			"popup": {
+				"title": "Plane crash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Plane crashed with a shipment of drugs  Collect it  Kill the NPCs  Watch out, cops are coming  Sell the drugs at Bayn’s warehouse",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-15375,
+				23150
+			],
+			"popup": {
+				"title": "Tree man",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A humanoid-shaped tree surrounded by flowers that release spores; if you stay nearby for too long, a cutscene featuring a creature will be triggered.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-14335,
+				20080
+			],
+			"popup": {
+				"title": "Store Hostage Rescue",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Jason/Lucia encounters a vehicle with an open trunk and a blood trail leading into a dark building, where 2 men hold a store manager hostage. A unique shotgun can be found be found near the room inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-29340,
+				-12530
+			],
+			"popup": {
+				"title": "X-Files Close Encounter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>An abandoned car sits on the roadside, all doors wide open, emitting strange electronic noises. A trail of discarded clothes leads into the nearby woods. Follow it deeper into the forest to uncover a... weird encounter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-17000,
+				37175
+			],
+			"popup": {
+				"title": "Drunkard Asking for Money",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Drunkark going around asking for money",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-21205,
+				23990
+			],
+			"popup": {
+				"title": "Plane Crash: Cocaine and Map",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>This is a crashed plane with a map to deliver the cocaine. 2 bundles of cocaine are located next to the plane",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-16625,
+				37420
+			],
+			"popup": {
+				"title": "Wheelchair Robbery",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-16175,
+				36700
+			],
+			"popup": {
+				"title": "Hijack a Robbery",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A Mother and Daughter will be robbing the liquor store late at night; you can take their filled van off them and get about $1.5K from the back of the van. Van also has extra storage spots",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-36860,
+				16150
+			],
+			"popup": {
+				"title": "Cocaine Yacht",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>If you follow the map from the plane crash in Pellican Valley, you'll find the yacht where the plane was supposed to deliver cocaine. On board, some cash and cocaine to grab",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-14910,
+				36320
+			],
+			"popup": {
+				"title": "Traffic Stop: Drunk Steals Cop Car",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A drunk guy is stopped by two cops and taunts them before hopping in a squad car to take it for a joy ride.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-10665,
+				30970
+			],
+			"popup": {
+				"title": "Gas Redneck",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A redneck ranting about the deep state is filling up a bathtub in a pickup truck bed with gasoline. He will spray it at the player if they get too close and will usually drive off and explode as he crashes somehow",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-20250,
+				30590
+			],
+			"popup": {
+				"title": "Smuggler Boat Explosion",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Cocaine Smuggler Boat explodes around here. Easy $1.2k in drugs. Watch out for the sharks. Marker may need some adjusting but it’s roughly correct",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-28810,
+				-24555
+			],
+			"popup": {
+				"title": "UFO Event: Suspicious Car",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Find a car acting suspiciously, inspect the scene.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-19670,
+				21110
+			],
+			"popup": {
+				"title": "Skunk Apeology 101",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Speak to the stranger flying the drones.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-30060,
+				-11580
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Help push the van out of the mud.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-12330,
+				33215
+			],
+			"popup": {
+				"title": "Missing Wife",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Help Alan Coleman find his wife after a car accident.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				-31550,
+				21210
+			],
+			"popup": {
+				"title": "Cocaine Yacht Shark Attack",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>As you boat through here you hear an explosion: a small boat is on fire after a shark attack. About 4 bags of cocaine float around it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-22405,
+				40565
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two men are stuck with their van in the mud: help push it out for $200.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-15880,
+				27360
+			],
+			"popup": {
+				"title": "Witch of the Swamp",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A woman called the Witch of the Swamp talks about the swamp and asks you to come back a few days later.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-28510,
+				12250
+			],
+			"popup": {
+				"title": "Hunter Shoots His Friend",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>You hear a gunshot and find two hunters arguing. They ask you to take them to the Hamlet hospital.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-10320,
+				31365
+			],
+			"popup": {
+				"title": "VR Gamer (house)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>There's a gamer inside the house that's using VR to watch adult content. You get sound notification when you pass the house. There's a couple of other things to do here, a Smash 'n' Grab, unique vehicle in the garage and a Basketball hoop. There's also a safe beside the bed you can break open (one player found $1,100 in it). One player found a Luxury Watch (1 of 37) in the safe.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-25580,
+				39905
+			],
+			"popup": {
+				"title": "Drug Deal",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Multiple Cars and a fanboat parked around a stash bag and some gas cans at night. Flares are scattered around. Multiple weapons available and roughly $1.8k in drugs plus some cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-32725,
+				-12450
+			],
+			"popup": {
+				"title": "Investigate the Photos",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>(Investigation into the missing persons photos around the area.) The photos you found could be connected to the missing persons posters in Port Gellhorn. Workout where they were taken to find out if there's a connection.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-33165,
+				-10595
+			],
+			"popup": {
+				"title": "Yard Sale (Arthur Morgan hat)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>There's a yard sale here with an Arthur Morgan hat",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-25440,
+				40160
+			],
+			"popup": {
+				"title": "Kingfishers Ambush on the Road",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>If you have done the robbery with donnie you might get this event where kingfisher ambush you on the highway while blocking the road and shooting at you",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-34500,
+				-16205
+			],
+			"popup": {
+				"title": "Alien Witness",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>He says that he saw an alien in this location",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-24465,
+				-8270
+			],
+			"popup": {
+				"title": "Hollow Earther's Camp",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-19640,
+				35140
+			],
+			"popup": {
+				"title": "Exploding Smuggler Boat",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A boat with cocaine explodes and the driver gets eaten by a shark. You can collect 3-4 packages cocaine per $400 each.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-32295,
+				-17680
+			],
+			"popup": {
+				"title": "Garage Band",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two dudes on garage",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				-17815,
+				-9585
+			],
+			"popup": {
+				"title": "Save the Cow",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A well-dressed show cow escapes. Return her to her owner... or don't.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				-32295,
+				-18630
+			],
+			"popup": {
+				"title": "Missing Person Poster",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A missing person poster from Port Gellhorn, found under the floorboards of the RV with \"no lives\" spray-painted next to the door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				-16725,
+				37590
+			],
+			"popup": {
+				"title": "Fortune Teller",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A fortune teller: bad advice for $1, good advice for $5, great advice for $10, a secret for $100 and your future for $1,000.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				-25375,
+				-28875
+			],
+			"popup": {
+				"title": "Save the Bear Protest",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Protesters block the street to free a bear from the back of a van. Convince the driver to let it out: it is a polar bear, which you can shoot and send to Bret.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-20435,
+				30160
+			],
+			"popup": {
+				"title": "Cool Dog on a Jet Ski",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Jump off a boat in this area and swim for a moment until you hear a dog barking. Turn around to find a dog on a jet ski: hop on and he takes you to a dog island.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				-16765,
+				37640
+			],
+			"popup": {
+				"title": "Cigarette Trick",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man shows you a cigarette trick if you give him a cigarette.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				-25540,
+				-6380
+			],
+			"popup": {
+				"title": "Escaped Prisoners",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				1070,
+				-4570
+			],
+			"popup": {
+				"title": "Trailer Girl (yacht)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>The woman from the GTA 6 trailer, found on Mattia's yacht.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				-16130,
+				25715
+			],
+			"popup": {
+				"title": "Truck Stuck in the Mud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A truck stuck in the mud.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				-35265,
+				-13430
+			],
+			"popup": {
+				"title": "Missing Person: Sunken Car",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a sunken car at the edge of the lake; only the rusted roof racks show above the water.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				-33335,
+				-15405
+			],
+			"popup": {
+				"title": "Missing Person: Pink Car (PRTYGRL)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Find the pink car with the plate PRTYGRL, under another car, and open the trunk to find the body.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				-13960,
+				-30860
+			],
+			"popup": {
+				"title": "Bear Encounter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A tourist confronted by a bear asks you what to do.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				-16005,
+				-16765
+			],
+			"popup": {
+				"title": "Kitty Drug Bust",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Police block the road while they raid a house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				-19265,
+				-11555
+			],
+			"popup": {
+				"title": "Caleb, the Drunk Tractor Driver",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A drunk tractor driver asks you to drive him to Stacy, his ex-boss.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				-26880,
+				-17385
+			],
+			"popup": {
+				"title": "People Jumping in the Water",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A group asks you to jump into the water with them. You can accept or leave.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				-11980,
+				30520
+			],
+			"popup": {
+				"title": "Cigarette Trick (outdoor bar)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Give a cigarette to the man with long brown hair and sunglasses and he tries a trick. Seen at night at the outdoor bar.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				-15255,
+				29005
+			],
+			"popup": {
+				"title": "Stolen Tiger in Van",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two men with a stuck van. Open the van to find a stolen tiger.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				-14215,
+				23490
+			],
+			"popup": {
+				"title": "Hunter Shoots His Friend",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>You hear gunshots and find two hunters: one shot his friend, mistaking him for a deer. Get both into your vehicle and drive them to the nearest hospital before the wounded hunter gets worse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				-11745,
+				31410
+			],
+			"popup": {
+				"title": "Mandy Filming Her Neighbor",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Meet Mandy in front of a yellow house, next to a small blue cottage. She is secretly filming her naked neighbor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				-15240,
+				36270
+			],
+			"popup": {
+				"title": "Brofile Pic",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Three guys drinking on top of the Wonder Whale ask you to take a picture of them.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				-20705,
+				22070
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One of the three skunk ape effigies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				-19690,
+				23345
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One of the three skunk ape effigies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				-11240,
+				31765
+			],
+			"popup": {
+				"title": "Robbed at the ATM",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man in a floral shirt pulls a gun as you start a deposit and demands all your cash. Hand it over, or refuse and he tries to kill you.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				-18720,
+				22745
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One of the three skunk ape effigies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				-11805,
+				30485
+			],
+			"popup": {
+				"title": "Drunk Man at the Rusty Anchor",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A drunk man stumbles outside the Rusty Anchor asking for cash. Give him money for a ride home, or watch him water the plants and drive off drunk in his boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				-27440,
+				-13285
+			],
+			"popup": {
+				"title": "Dumpster Diver",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>During Chapter 2, a dumpster diver at the motel where Jason and Lucia are staying.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				-27390,
+				-13320
+			],
+			"popup": {
+				"title": "A Couple's Dream",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A couple near the motel's reception entrance, dreaming about their future.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				-32670,
+				-15425
+			],
+			"popup": {
+				"title": "Payday Loan Crashout",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside Cash Flow Loans on Gellhorn Avenue, Port Gellhorn: a bald man rages at the ATM and cracks its screen.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

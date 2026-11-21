@@ -1,0 +1,832 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Safe",
+			"color": "#c9a227",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				7650,
+				2220
+			],
+			"popup": {
+				"title": "Safe - Ocean Beach Liquor Store",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Break into the back of the Liquor Shop and in the office is a safe box with $1000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-20045.5,
+				-38756.5
+			],
+			"popup": {
+				"title": "Locked Safe - Carter Mining Boathouse",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-7723,
+				-31585
+			],
+			"popup": {
+				"title": "RV Safe - Weed Grow",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-7441.5,
+				-31440
+			],
+			"popup": {
+				"title": "Safe - Weed Grow",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-33443.5,
+				-17442.5
+			],
+			"popup": {
+				"title": "Warehouse Safe - Brooks Boatworks",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-32431,
+				-17433.5
+			],
+			"popup": {
+				"title": "Safe - Stash House",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-33548.5,
+				-17321.5
+			],
+			"popup": {
+				"title": "Office Safe - Brooks Boatworks",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-24206.5,
+				-16647.5
+			],
+			"popup": {
+				"title": "Locked Safe - Walker Farm",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-14492,
+				-16104.5
+			],
+			"popup": {
+				"title": "Office Safe - Hog Stars Garage",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-34935,
+				-15728.5
+			],
+			"popup": {
+				"title": "Lieutenant Room Safe - La Cascara Motel",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-15771.5,
+				-15654.5
+			],
+			"popup": {
+				"title": "Safe - Irons Building Supply",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-10732,
+				-15423.5
+			],
+			"popup": {
+				"title": "Safe - Biker Hideout",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-6484.5,
+				-14540.5
+			],
+			"popup": {
+				"title": "Safe - Farm Fix Meth Lab",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-33175,
+				-13597.5
+			],
+			"popup": {
+				"title": "Safe - June Warehouse",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-32329,
+				-12247
+			],
+			"popup": {
+				"title": "Locked Safe - Backroom Weed Front",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-32486,
+				-11970.5
+			],
+			"popup": {
+				"title": "Office Safe - Kingpin Bowling",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-17543.5,
+				-9924
+			],
+			"popup": {
+				"title": "Safe",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-2597,
+				-5377.5
+			],
+			"popup": {
+				"title": "Safe - Sound4Sound Studio",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-5612.5,
+				-3269.5
+			],
+			"popup": {
+				"title": "Safe - Illegal Sneaker Trade",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				-6021.5,
+				-2137
+			],
+			"popup": {
+				"title": "Safe - Cigar Import Front",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				1808,
+				-1921.5
+			],
+			"popup": {
+				"title": "Armory Safe - Vespucci Mansion",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				1774.5,
+				-1913.5
+			],
+			"popup": {
+				"title": "Armory Safe 2 - Vespucci Mansion",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-6935,
+				-1848
+			],
+			"popup": {
+				"title": "Safe -Janjak's Garage",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				-12158.5,
+				643.5
+			],
+			"popup": {
+				"title": "Safe - Leonida Carrier Warehouse",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-7316.5,
+				676
+			],
+			"popup": {
+				"title": "Safe - Parlor Apartments",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				8432.5,
+				1169
+			],
+			"popup": {
+				"title": "Safe - Ocean Beach Lab",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-8430,
+				1184
+			],
+			"popup": {
+				"title": "Safe - Saber Shipping Facility",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-6308,
+				2267
+			],
+			"popup": {
+				"title": "Safe - Casa Guardia",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-20,
+				2359.5
+			],
+			"popup": {
+				"title": "Office Safe - Chatfield Storage & Logistics",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-7799.5,
+				3270
+			],
+			"popup": {
+				"title": "Office Safe - Saber Shipping Facility",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-27754,
+				9677
+			],
+			"popup": {
+				"title": "Safe - Industrial Weed Grow",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-7792,
+				10840
+			],
+			"popup": {
+				"title": "Safe - Slator Towing Inc",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				-9093,
+				13280.5
+			],
+			"popup": {
+				"title": "Safe - Illegal Goods Store",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				-25441,
+				16914
+			],
+			"popup": {
+				"title": "Locked Safe - Mill Station Radar Base",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				-23507.5,
+				18814
+			],
+			"popup": {
+				"title": "Safe - Watson Bay Safe House",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				-27579.5,
+				19754
+			],
+			"popup": {
+				"title": "Safe - Palmer Fishing Warehouse",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-13059,
+				21184.5
+			],
+			"popup": {
+				"title": "Garage Safe - Nova Auto Junkyard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				-15680.5,
+				24733
+			],
+			"popup": {
+				"title": "Safe - Manatee Motel",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				-17956.5,
+				26533
+			],
+			"popup": {
+				"title": "Office Safe - Sunrise RV Park",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				-18009.5,
+				26989.5
+			],
+			"popup": {
+				"title": "Dock Warehouse Safe - Sunset RV Park",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				-12951,
+				34101.5
+			],
+			"popup": {
+				"title": "Safe - Exotic Animal Front",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				-19930,
+				28940
+			],
+			"popup": {
+				"title": "Safe (code 44017)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Code: 44017",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				-11825,
+				31105
+			],
+			"popup": {
+				"title": "Safe (bedroom)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Couple bucks in the safe in the bedroom",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				-42445,
+				5715
+			],
+			"popup": {
+				"title": "Safe - Belpoint Shipwreck",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Combo is behind the painting",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				-32525,
+				36125
+			],
+			"popup": {
+				"title": "Safe - Southwind Gas Station ($458)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Small safe $458 in office of gas station - can disable alarm and security as well",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				-12280,
+				32825
+			],
+			"popup": {
+				"title": "Safe - Canoes and Kayaks",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>There's a safe hidden in Canoes and Kayaks rental. Easy 1000$",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				-14505,
+				36635
+			],
+			"popup": {
+				"title": "Safe - Gun Nut House",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>There's a safe in this house with a bit of cash and a gun.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				-11830,
+				32425
+			],
+			"popup": {
+				"title": "Safe - Keyline Paint Shop",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Found in office on the paint shop",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				-14170,
+				34880
+			],
+			"popup": {
+				"title": "Safe - Fleeca Bank (Key Lento)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Safe inside the Fleeca bank. Code: 1747.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				-5540,
+				-2745
+			],
+			"popup": {
+				"title": "Safe - Vanessa",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Enter the safe code found on Vanessa's laptop here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

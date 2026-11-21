@@ -1,0 +1,1632 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Basketball Hoop",
+			"color": "#fb8500",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				-6855,
+				-33955.5
+			],
+			"popup": {
+				"title": "Hoop 98 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				-6530,
+				-31515
+			],
+			"popup": {
+				"title": "Hoop 99 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				-19370,
+				-31211
+			],
+			"popup": {
+				"title": "Hoop 97 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				-20944,
+				-30388.5
+			],
+			"popup": {
+				"title": "Hoop 96 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				-5443.5,
+				-27016.5
+			],
+			"popup": {
+				"title": "Hoop 100 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				-22331.5,
+				-23822.5
+			],
+			"popup": {
+				"title": "Hoop 95 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				-2301.5,
+				-18053.5
+			],
+			"popup": {
+				"title": "Hoop 74 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				-15349.5,
+				-17667.5
+			],
+			"popup": {
+				"title": "Hoop 85 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				-15477,
+				-17598.5
+			],
+			"popup": {
+				"title": "Hoop 86 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				-32755.5,
+				-17067
+			],
+			"popup": {
+				"title": "Hoop 92 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				-2812.5,
+				-17010.5
+			],
+			"popup": {
+				"title": "Hoop 73 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				-13534,
+				-16995.5
+			],
+			"popup": {
+				"title": "Hoop 84 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				-32656,
+				-16988
+			],
+			"popup": {
+				"title": "Hoop 89 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				-32822,
+				-16983
+			],
+			"popup": {
+				"title": "Hoop 91 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				-32707.5,
+				-16908
+			],
+			"popup": {
+				"title": "Hoop 90 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				-17709,
+				-16754
+			],
+			"popup": {
+				"title": "Hoop 88 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				-13578,
+				-16458
+			],
+			"popup": {
+				"title": "Hoop 83 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				-16650,
+				-16151.5
+			],
+			"popup": {
+				"title": "Hoop 87 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				-837.5,
+				-15905.5
+			],
+			"popup": {
+				"title": "Hoop 72 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				667,
+				-15452.5
+			],
+			"popup": {
+				"title": "Hoop 71 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				-33401.5,
+				-14428
+			],
+			"popup": {
+				"title": "Hoop 93 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				-450,
+				-14372.5
+			],
+			"popup": {
+				"title": "Hoop 70 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				-8850.5,
+				-13418
+			],
+			"popup": {
+				"title": "Hoop 82 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				3444.5,
+				-13326.5
+			],
+			"popup": {
+				"title": "Hoop 75 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				-70,
+				-13149.5
+			],
+			"popup": {
+				"title": "Hoop 69 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				-7033.5,
+				-11760
+			],
+			"popup": {
+				"title": "Hoop 77 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				-6948,
+				-11760
+			],
+			"popup": {
+				"title": "Hoop 76 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				-7032.5,
+				-11611.5
+			],
+			"popup": {
+				"title": "Hoop 78 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				-6947.5,
+				-11611.5
+			],
+			"popup": {
+				"title": "Hoop 79 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				-7238,
+				-10592
+			],
+			"popup": {
+				"title": "Hoop 80 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				-33236.5,
+				-10469
+			],
+			"popup": {
+				"title": "Hoop 94 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				-8142,
+				-9651.5
+			],
+			"popup": {
+				"title": "Hoop 81 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				1079,
+				-9202.5
+			],
+			"popup": {
+				"title": "Hoop 68 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				3671,
+				-7843.5
+			],
+			"popup": {
+				"title": "Hoop 67 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				3736.5,
+				-7810
+			],
+			"popup": {
+				"title": "Hoop 66 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				9687.5,
+				-5234
+			],
+			"popup": {
+				"title": "Hoop 65 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				-26594,
+				-4417
+			],
+			"popup": {
+				"title": "Hoop 48 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				9005,
+				-3929
+			],
+			"popup": {
+				"title": "Hoop 63 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				9114,
+				-3926.5
+			],
+			"popup": {
+				"title": "Hoop 64 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				2191,
+				-2862
+			],
+			"popup": {
+				"title": "Hoop 55 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				1955.5,
+				-2578
+			],
+			"popup": {
+				"title": "Hoop 54 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				-84.5,
+				-1896.5
+			],
+			"popup": {
+				"title": "Hoop 53 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				5655.5,
+				-1148
+			],
+			"popup": {
+				"title": "Hoop 56 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				5775.5,
+				-1145.5
+			],
+			"popup": {
+				"title": "Hoop 57 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				5848.5,
+				-1144.5
+			],
+			"popup": {
+				"title": "Hoop 58 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				6823,
+				-14.5
+			],
+			"popup": {
+				"title": "Hoop 59 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				-10636,
+				154.5
+			],
+			"popup": {
+				"title": "Hoop 46 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				-6454,
+				633.5
+			],
+			"popup": {
+				"title": "Hoop 45 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				3276,
+				1381
+			],
+			"popup": {
+				"title": "Hoop 60 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				-37339,
+				1531.5
+			],
+			"popup": {
+				"title": "Hoop 51 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				2726,
+				1643
+			],
+			"popup": {
+				"title": "Hoop 61 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				-7120.5,
+				1690
+			],
+			"popup": {
+				"title": "Hoop 42 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				-36016,
+				1726.5
+			],
+			"popup": {
+				"title": "Hoop 50 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				-7271.5,
+				1739
+			],
+			"popup": {
+				"title": "Hoop 43 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				-7073.5,
+				1798.5
+			],
+			"popup": {
+				"title": "Hoop 41 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				-7231,
+				1843
+			],
+			"popup": {
+				"title": "Hoop 44 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				-14238.5,
+				2016
+			],
+			"popup": {
+				"title": "Hoop 47 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				-1718,
+				2104
+			],
+			"popup": {
+				"title": "Hoop 39 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				-4908,
+				2235
+			],
+			"popup": {
+				"title": "Hoop 40 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				2580,
+				2491.5
+			],
+			"popup": {
+				"title": "Hoop 62 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				-37093,
+				2945
+			],
+			"popup": {
+				"title": "Hoop 52 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				-7131.5,
+				3532
+			],
+			"popup": {
+				"title": "Hoop 33 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				-7036.5,
+				4432.5
+			],
+			"popup": {
+				"title": "Hoop 32 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				-32896,
+				4844
+			],
+			"popup": {
+				"title": "Hoop 49 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				-7026.5,
+				6576
+			],
+			"popup": {
+				"title": "Hoop 31 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1843.5,
+				6918.5
+			],
+			"popup": {
+				"title": "Hoop 35 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1713,
+				6948.5
+			],
+			"popup": {
+				"title": "Hoop 34 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				2196.5,
+				6959
+			],
+			"popup": {
+				"title": "Hoop 36 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				-7363.5,
+				7798.5
+			],
+			"popup": {
+				"title": "Hoop 26 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				-6337,
+				7932
+			],
+			"popup": {
+				"title": "Hoop 28 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				-6229,
+				7981
+			],
+			"popup": {
+				"title": "Hoop 29 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				-6370.5,
+				8033
+			],
+			"popup": {
+				"title": "Hoop 27 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				-6265.5,
+				8080
+			],
+			"popup": {
+				"title": "Hoop 30 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				-7757.5,
+				10887
+			],
+			"popup": {
+				"title": "Hoop 25 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				-6891,
+				11892
+			],
+			"popup": {
+				"title": "Hoop 24 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				-721.5,
+				12927
+			],
+			"popup": {
+				"title": "Hoop 38 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				2935.5,
+				13298.5
+			],
+			"popup": {
+				"title": "Hoop 37 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				-9174,
+				13931.5
+			],
+			"popup": {
+				"title": "Hoop 23 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				-7497,
+				16562.5
+			],
+			"popup": {
+				"title": "Hoop 20 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				-6574,
+				17424.5
+			],
+			"popup": {
+				"title": "Hoop 21 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				-6122,
+				18281.5
+			],
+			"popup": {
+				"title": "Hoop 22 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				-15642,
+				18293
+			],
+			"popup": {
+				"title": "Hoop 16 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				-15718,
+				18426.5
+			],
+			"popup": {
+				"title": "Hoop 15 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				-14512,
+				18583
+			],
+			"popup": {
+				"title": "Hoop 17 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				-14397.5,
+				18585.5
+			],
+			"popup": {
+				"title": "Hoop 18 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				-20197.5,
+				19355
+			],
+			"popup": {
+				"title": "Hoop 14 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				-24612,
+				19945
+			],
+			"popup": {
+				"title": "Hoop 12 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				-23119,
+				20570.5
+			],
+			"popup": {
+				"title": "Hoop 13 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				-14096.5,
+				21371
+			],
+			"popup": {
+				"title": "Hoop 19 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				-10033.5,
+				30554
+			],
+			"popup": {
+				"title": "Hoop 9 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				-10274,
+				31444
+			],
+			"popup": {
+				"title": "Hoop 8 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				-12351,
+				31809.5
+			],
+			"popup": {
+				"title": "Hoop 6 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				-10491.5,
+				32143.5
+			],
+			"popup": {
+				"title": "Hoop 7 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				-12559.5,
+				32332.5
+			],
+			"popup": {
+				"title": "Hoop 5 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				-13849.5,
+				33678.5
+			],
+			"popup": {
+				"title": "Hoop 3 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				-12252,
+				33817
+			],
+			"popup": {
+				"title": "Hoop 4 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				-32411.5,
+				35884.5
+			],
+			"popup": {
+				"title": "Hoop 11 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				-32132.5,
+				36230
+			],
+			"popup": {
+				"title": "Hoop 10 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				-14480,
+				36409.5
+			],
+			"popup": {
+				"title": "Hoop 2 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				-16744.5,
+				37851.5
+			],
+			"popup": {
+				"title": "Hoop 1 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}
