@@ -168,6 +168,11 @@
       "title": "Map:GTA VI: Weapon Pickups",
       "path": "maps/weapon.json",
       "markers": 31
+    },
+    {
+      "title": "Map:GTA VI: 100% Completion",
+      "path": "maps/completion.json",
+      "markers": 1269
     }
   ]
 }
