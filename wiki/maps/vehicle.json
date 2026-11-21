@@ -2138,6 +2138,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "133",
+			"position": [
+				1039.06,
+				2301.72
+			],
+			"popup": {
+				"title": "Karin Cheshire Rebel (Barn Find)",
+				"description": "Location: [[Port Gellhorn]]<br/>A racing-style Rebel found in the barn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "134",
+			"position": [
+				1040.78,
+				2300.47
+			],
+			"popup": {
+				"title": "Vapid '65 Dominator",
+				"description": "Location: [[Port Gellhorn]]<br/>Classic convertible just outside the barn with the Karin Cheshire Rebel.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

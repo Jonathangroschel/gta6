@@ -12,7 +12,7 @@
     {
       "title": "Map:GTA VI: Collectible Cards",
       "path": "maps/card.json",
-      "markers": 206
+      "markers": 207
     },
     {
       "title": "Map:GTA VI: WAiNK Scans",
@@ -92,7 +92,7 @@
     {
       "title": "Map:GTA VI: Meteorites",
       "path": "maps/meteorite.json",
-      "markers": 18
+      "markers": 26
     },
     {
       "title": "Map:GTA VI: Treasures",
@@ -117,7 +117,7 @@
     {
       "title": "Map:GTA VI: Standout Vehicles",
       "path": "maps/vehicle.json",
-      "markers": 132
+      "markers": 134
     },
     {
       "title": "Map:GTA VI: Under the Bridge Flights",
@@ -147,12 +147,12 @@
     {
       "title": "Map:GTA VI: Random Events",
       "path": "maps/event.json",
-      "markers": 62
+      "markers": 64
     },
     {
       "title": "Map:GTA VI: Safes",
       "path": "maps/safe.json",
-      "markers": 50
+      "markers": 51
     },
     {
       "title": "Map:GTA VI: Towable ATMs",
@@ -167,12 +167,12 @@
     {
       "title": "Map:GTA VI: Weapon Pickups",
       "path": "maps/weapon.json",
-      "markers": 34
+      "markers": 37
     },
     {
       "title": "Map:GTA VI: 100% Completion",
       "path": "maps/completion.json",
-      "markers": 1273
+      "markers": 1277
     }
   ]
 }

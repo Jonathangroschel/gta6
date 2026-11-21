@@ -1018,6 +1018,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				1084.69,
+				2145.78
+			],
+			"popup": {
+				"title": "Mudslider Mechanic",
+				"description": "Location: [[Port Gellhorn]]<br/>A mechanic fixing his car for the mudslide race asks you to sit in the driver's seat and rev the engine a few times until it is fixed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				1565.16,
+				1664.84
+			],
+			"popup": {
+				"title": "Fox Furry Cornered by Police",
+				"description": "Location: [[Vice City]]<br/>A man in a fox costume cornered by the police.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

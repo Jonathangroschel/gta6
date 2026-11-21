@@ -3322,6 +3322,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "207",
+			"position": [
+				1097.81,
+				2158.28
+			],
+			"popup": {
+				"title": "Collectible Card",
+				"description": "Location: [[Port Gellhorn]]<br/>On the roof of the gas station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

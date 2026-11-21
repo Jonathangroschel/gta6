@@ -314,6 +314,134 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				1531.56,
+				2701.25
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Climb up to the bell.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				922.66,
+				1708.59
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Capri]]<br/>At the abandoned campsite by the river: the meteorite is under the upside-down boat, next to the fire. Easy to see from the river.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				1214.06,
+				2016.09
+			],
+			"popup": {
+				"title": "Meteorite Fragments (Selkie Hole)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Follow the underwater diving route through the cave: one meteorite is at the cave entrance and the other at the exit, just before the lake.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				797.97,
+				1765.31
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Capri]]<br/>Near the boat party, where the grass meets the sand.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				799.38,
+				1768.75
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Capri]]<br/>Right of the boat party, on the sand where the tide comes in.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				790.47,
+				1832.5
+			],
+			"popup": {
+				"title": "Meteorite Fragment (beached whale)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the beached whale. Careful: when you approach it bursts, spilling a wheelchair, cocaine packages and the meteorite onto the beach.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				770,
+				1862.66
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Between the two trees on the grass by the beach. Easier to spot from a boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				701.88,
+				1901.25
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the tip of land, among the rocks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -570,6 +570,54 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				1322.19,
+				2765.63
+			],
+			"popup": {
+				"title": "Redneck W-22",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the derailed train.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				1047.97,
+				2302.19
+			],
+			"popup": {
+				"title": "Machete",
+				"description": "Location: [[Port Gellhorn]]<br/>On top of the hay bales.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				1771.88,
+				1454.22
+			],
+			"popup": {
+				"title": "Cockroach Xtreme 556 Assault Rifle",
+				"description": "Location: [[Vice City]]<br/>Unique weapon at the back of the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -826,6 +826,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				1617.81,
+				750
+			],
+			"popup": {
+				"title": "Safe - VR Gamer House",
+				"description": "Location: [[Key Lento]]<br/>In the house, next to the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
