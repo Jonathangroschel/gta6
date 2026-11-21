@@ -2074,6 +2074,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "129",
+			"position": [
+				1444.53,
+				1043.59
+			],
+			"popup": {
+				"title": "Bravado Driveshaft Banshee",
+				"description": "Location: [[Hamlet]]<br/>In the junkyard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "130",
+			"position": [
+				1361.25,
+				957.81
+			],
+			"popup": {
+				"title": "HVY Waste Lander",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Parked near the cabin.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "131",
+			"position": [
+				884.22,
+				1455.31
+			],
+			"popup": {
+				"title": "Bombora S23 CS (Boat)",
+				"description": "Location: [[Capri]]<br/>On the shore, next to a couple sitting by a fire.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "132",
+			"position": [
+				895.31,
+				2162.5
+			],
+			"popup": {
+				"title": "Partytime Caddy",
+				"description": "Location: [[Port Gellhorn]]<br/>Parked out front of the milk bar.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

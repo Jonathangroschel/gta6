@@ -1466,6 +1466,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1526.41,
+				881.09
+			],
+			"popup": {
+				"title": "QR Code",
+				"description": "Location: [[Key Lento]]<br/>Scan the QR code to start a mission.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

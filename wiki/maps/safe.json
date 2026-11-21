@@ -810,6 +810,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				1766.88,
+				1815.78
+			],
+			"popup": {
+				"title": "Safe - Vanessa",
+				"description": "Location: [[Vice City]]<br/>Enter the safe code found on Vanessa's laptop here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

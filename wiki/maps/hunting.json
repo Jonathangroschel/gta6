@@ -90,6 +90,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				1026.25,
+				1854.38
+			],
+			"popup": {
+				"title": "Gellhorn Hunting Spot",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A hunting magazine marks this as a good spot for wild boars, wild white turkeys, Leonida panthers and black foxes. Recommended weapon: Shrewsbury SM-69 rifle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

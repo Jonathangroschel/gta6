@@ -490,6 +490,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				1057.66,
+				665.63
+			],
+			"popup": {
+				"title": "Aviator Sunglasses",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a table in a small hut.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

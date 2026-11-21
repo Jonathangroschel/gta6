@@ -842,6 +842,182 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				1463.75,
+				596.56
+			],
+			"popup": {
+				"title": "Brofile Pic",
+				"description": "Location: [[Key Lento]]<br/>Three guys drinking on top of the Wonder Whale ask you to take a picture of them.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				1292.97,
+				1040.31
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One of the three skunk ape effigies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1324.69,
+				1000.47
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One of the three skunk ape effigies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1588.75,
+				737.34
+			],
+			"popup": {
+				"title": "Robbed at the ATM",
+				"description": "Location: [[Key Lento]]<br/>A man in a floral shirt pulls a gun as you start a deposit and demands all your cash. Hand it over, or refuse and he tries to kill you.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				1355,
+				1019.22
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One of the three skunk ape effigies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				1571.09,
+				777.34
+			],
+			"popup": {
+				"title": "Drunk Man at the Rusty Anchor",
+				"description": "Location: [[Key Lento]]<br/>A drunk man stumbles outside the Rusty Anchor asking for cash. Give him money for a ride home, or watch him water the plants and drive off drunk in his boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1082.5,
+				2145.16
+			],
+			"popup": {
+				"title": "Dumpster Diver",
+				"description": "Location: [[Port Gellhorn]]<br/>During Chapter 2, a dumpster diver at the motel where Jason and Lucia are staying.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				1084.06,
+				2146.25
+			],
+			"popup": {
+				"title": "A Couple's Dream",
+				"description": "Location: [[Port Gellhorn]]<br/>A couple near the motel's reception entrance, dreaming about their future.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				919.06,
+				2212.03
+			],
+			"popup": {
+				"title": "Payday Loan Crashout",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside Cash Flow Loans on Gellhorn Avenue, Port Gellhorn: a bald man rages at the ATM and cracks its screen.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				978.44,
+				2191.72
+			],
+			"popup": {
+				"title": "Iguana Target Practice",
+				"description": "Location: [[Port Gellhorn]]<br/>Three \"ecologists\" are shooting pumpkins. They challenge you to a $250 contest: shoot the most iguanas after they release them from a cage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				1041.41,
+				2162.34
+			],
+			"popup": {
+				"title": "Alien Encounter",
+				"description": "Location: [[Port Gellhorn]]<br/>A car sits on the road with all doors open, headlights flashing and a glitching radio. Further along, a bright light in a field: a naked middle-aged woman being beamed up by a tractor beam.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

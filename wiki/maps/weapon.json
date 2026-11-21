@@ -522,6 +522,54 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				1217.97,
+				908.44
+			],
+			"popup": {
+				"title": "Duke 556 Assault Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the seaplane, on top of the small building to the right of the water tank (facing the water).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				1223.59,
+				2209.38
+			],
+			"popup": {
+				"title": "Bat Batesaurio",
+				"description": "Location: [[Ambrosia]]<br/>Unique bat. Pick it up next to the red mesh cage near Dino Golf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				900.63,
+				2276.41
+			],
+			"popup": {
+				"title": "556 Shortcut",
+				"description": "Location: [[Port Gellhorn]]<br/>Assault rifle pickup.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

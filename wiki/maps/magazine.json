@@ -810,6 +810,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				1217.03,
+				2200.31
+			],
+			"popup": {
+				"title": "Tee'd Off Dino",
+				"description": "Location: [[Ambrosia]]<br/>Magazine on the table. Unlocks the unique Tee'd Off Dino tattoo.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
