@@ -1706,6 +1706,422 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "106",
+			"position": [
+				1978.13,
+				1651.09
+			],
+			"popup": {
+				"title": "Anti-Theft Car",
+				"description": "Location: [[Vice City]]<br/>Steal the car and its anti-theft system takes over: it locks the doors and windows and drives you to the police station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "107",
+			"position": [
+				1684.84,
+				851.09
+			],
+			"popup": {
+				"title": "Gang Trade",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Only at night: two gangs meet to trade goods. Ambush them and take the loot (around $1,500).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "108",
+			"position": [
+				1503.28,
+				638.44
+			],
+			"popup": {
+				"title": "Drunk Man on a Police Car",
+				"description": "Location: [[Key Lento]]<br/>A drunk man dances on a police car while officers try to handle him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "109",
+			"position": [
+				1525.16,
+				2451.72
+			],
+			"popup": {
+				"title": "Paranoid Prepper's Bunker",
+				"description": "Location: [[Ambrosia]]<br/>Move the container to reach the bunker, and watch out for mines: a paranoid man sets you more challenges for money.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "110",
+			"position": [
+				1048.13,
+				2633.13
+			],
+			"popup": {
+				"title": "Roadside Forest Fire",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Off the left side of the highway, a patch of trees is on fire.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "111",
+			"position": [
+				900.78,
+				2094.84
+			],
+			"popup": {
+				"title": "Clumsy Car Thief",
+				"description": "Location: [[Port Gellhorn]]<br/>A clumsy woman needs your help stealing a car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "112",
+			"position": [
+				919.69,
+				2211.25
+			],
+			"popup": {
+				"title": "Botched Robbery",
+				"description": "Location: [[Port Gellhorn]]<br/>Robbers flee the payday loan store, dropping wads of cash on the tarmac as the owner chases them; the cash is left scattered around.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "113",
+			"position": [
+				1031.25,
+				2649.84
+			],
+			"popup": {
+				"title": "Attempted Carjacking",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At night a muscle car blocks the road and its driver demands money.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "114",
+			"position": [
+				989.38,
+				2189.53
+			],
+			"popup": {
+				"title": "Kolt & Associates Highway Ambush",
+				"description": "Location: [[Port Gellhorn]]<br/>After completing the chapter 2 mission \"Slam Dunk\" and gain the ability to raid their drug operations you'll be able to unlock this random encounter as they try to retaliate via an ambush. They will run the car off the road and try to kill you.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "115",
+			"position": [
+				1084.38,
+				2645.31
+			],
+			"popup": {
+				"title": "Former Final Chapter Member Attacked",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A former Final Chapter member is being beaten and threatened. Help him and untie him to complete it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "116",
+			"position": [
+				834.38,
+				2174.22
+			],
+			"popup": {
+				"title": "Newlyweds' House",
+				"description": "Location: [[Port Gellhorn]]<br/>Listen in on a couple who have just got married.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "117",
+			"position": [
+				1730,
+				1409.38
+			],
+			"popup": {
+				"title": "Non-Flusher Movement Meeting (Frank's Waffle)",
+				"description": "Location: [[Vice City]]<br/>Code: 00-00-02.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "118",
+			"position": [
+				1310,
+				1278.28
+			],
+			"popup": {
+				"title": "Kidnapped Cop",
+				"description": "Location: [[Watson Bay]]<br/>Two people have tied up a police officer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "119",
+			"position": [
+				999.06,
+				1212.97
+			],
+			"popup": {
+				"title": "Dirty Cops (hangar)",
+				"description": "Location: [[Watson Bay]]<br/>Inside the hangar at 3 a.m.: a cop tied to a chair is beaten up by two dirty cops.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "120",
+			"position": [
+				941.25,
+				1486.09
+			],
+			"popup": {
+				"title": "Lady with a Couch",
+				"description": "Location: [[Capri]]<br/>Help the woman with her couch and you get kidnapped into the game's take on the Saw movies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "121",
+			"position": [
+				1732.03,
+				1440
+			],
+			"popup": {
+				"title": "Influencer Falls from Overpass",
+				"description": "Location: [[Vice City]]<br/>A streamer livestreaming on the edge of the bridge accidentally falls off.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "122",
+			"position": [
+				1485.31,
+				616.72
+			],
+			"popup": {
+				"title": "Drug Export Threat",
+				"description": "Location: [[Key Lento]]<br/>Two men are threatening another man. Question them and they tell you to back off; talk more with the threatened man.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "123",
+			"position": [
+				922.34,
+				1642.34
+			],
+			"popup": {
+				"title": "Traffic Stop: Golf Clubs",
+				"description": "Location: [[Capri]]<br/>A woman is pulled over and her car searched; the police only find golf clubs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "124",
+			"position": [
+				936.09,
+				2078.91
+			],
+			"popup": {
+				"title": "Corrupt Cops Rob a Dealer",
+				"description": "Location: [[Port Gellhorn]]<br/>Two corrupt cops beat a drug dealer and steal his cocaine, which opens a possible robbery.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "125",
+			"position": [
+				1448.44,
+				955.63
+			],
+			"popup": {
+				"title": "Loose Pet Tiger",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Kingfishers gang members are mauled by a loose tiger. Shoot it, then fight the gang members who arrive.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "126",
+			"position": [
+				1085.78,
+				2148.13
+			],
+			"popup": {
+				"title": "Linda's Coupon Meltdown",
+				"description": "Location: [[Port Gellhorn]]<br/>Linda, the motel receptionist, tries to get a restaurant coupon accepted, is refused and blows up at the staff.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "127",
+			"position": [
+				1330.47,
+				2266.56
+			],
+			"popup": {
+				"title": "Man Tied Up in a Barn",
+				"description": "Location: [[Ambrosia]]<br/>A man yells for help, guarded by two thugs. After you save him, there is a shotgun in the back of their truck.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "128",
+			"position": [
+				1240,
+				1215.94
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud",
+				"description": "Location: [[Watson Bay]]<br/>Help push the stuck van (reward: adrenaline).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "129",
+			"position": [
+				1358.59,
+				1052.03
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "130",
+			"position": [
+				1287.81,
+				967.5
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "131",
+			"position": [
+				1342.03,
+				955
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

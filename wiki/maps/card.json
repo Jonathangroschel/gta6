@@ -4714,6 +4714,390 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "294",
+			"position": [
+				1178.91,
+				1077.5
+			],
+			"popup": {
+				"title": "Liberty City Swingers card",
+				"description": "Location: [[Watson Bay]]<br/>On the porch of the first house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "295",
+			"position": [
+				1394.84,
+				2247.5
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Victor Maravilla",
+				"description": "Location: [[Ambrosia]]<br/>On the bench next to the Ambrosia baseball field.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "296",
+			"position": [
+				1931.88,
+				2174.84
+			],
+			"popup": {
+				"title": "Collectible Card (Gold)",
+				"description": "Location: [[Waning Sands]]<br/>In the garage, on the couch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "297",
+			"position": [
+				1879.38,
+				1877.19
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: The Educated Woman",
+				"description": "Location: [[Vice City]]<br/>In the alley on the right, up the ladder.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "298",
+			"position": [
+				1041.41,
+				2585.94
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Luke X",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the bedroom of the trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "299",
+			"position": [
+				1487.81,
+				1716.56
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Ricardo Zamudio",
+				"description": "Location: [[Vice City]]<br/>On the desk beside the radio as you enter the market.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "300",
+			"position": [
+				1770.94,
+				1453.13
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Anthony Herndon",
+				"description": "Location: [[Vice City]]<br/>In the back of the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "301",
+			"position": [
+				1177.66,
+				2532.81
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: President Quinn",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "302",
+			"position": [
+				1516.41,
+				2263.75
+			],
+			"popup": {
+				"title": "Malik Rivers card",
+				"description": "Location: [[Ambrosia]]<br/>In the house, on a shelf in the trophy/sports room. Enter through the back door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "303",
+			"position": [
+				1724.84,
+				1612.03
+			],
+			"popup": {
+				"title": "Julian Cruz",
+				"description": "Location: [[Vice City]]<br/>On a pinboard in an office. Enter through parking lot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "304",
+			"position": [
+				1685.31,
+				2065.94
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Illuminaughty",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the board near the computers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "305",
+			"position": [
+				1485.63,
+				1121.25
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Jacob Schneeman",
+				"description": "Location: [[Hamlet]]<br/>In a yellow box outside the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "306",
+			"position": [
+				1843.44,
+				1791.41
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Right Wing (Red)",
+				"description": "Location: [[Vice City]]<br/>On a small table in the side room on the ground floor of Bayside Apartments (first room on the right of the entrance).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "307",
+			"position": [
+				1416.72,
+				835
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Oluwa Mohammed",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the side of the bridge, in a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "308",
+			"position": [
+				1789.69,
+				1867.97
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Wokester",
+				"description": "Location: [[Vice City]]<br/>In the garage (break in), in a container.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "309",
+			"position": [
+				770.31,
+				1646.25
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Franklin Turner (Gold)",
+				"description": "Location: [[Capri]]<br/>Upstairs, on the table under the flower painting.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "310",
+			"position": [
+				1713.13,
+				1348.59
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Aoi Watanabe (Hotshot Rookie)",
+				"description": "Location: [[Vice City]]<br/>In the top cabana overlooking the shopping plaza.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "311",
+			"position": [
+				1241.72,
+				2002.34
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Ratster",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the top floor of the tower, next to the meditation spot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "312",
+			"position": [
+				1768.44,
+				2028.13
+			],
+			"popup": {
+				"title": "Garth Buxton",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a lockbox in the garage",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "313",
+			"position": [
+				1574.69,
+				1101.56
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Christian Yee",
+				"description": "Location: [[Hamlet]]<br/>In the back of the grocery store, pinned on the bulletin board.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "314",
+			"position": [
+				470.78,
+				2212.34
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Angel",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the deck.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "315",
+			"position": [
+				885.47,
+				1676.72
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Burning Desire",
+				"description": "Location: [[Capri]]<br/>On top of the building, directly below the sign.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "316",
+			"position": [
+				1218.91,
+				1125.31
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Silver Age Betrayal (Purple)",
+				"description": "Location: [[Watson Bay]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "317",
+			"position": [
+				2026.09,
+				2193.13
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Maximus Goldbart (Primo)",
+				"description": "Location: [[Waning Sands]]<br/>In the garage on the left side, by the tool rack.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
