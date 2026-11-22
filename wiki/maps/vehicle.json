@@ -2458,6 +2458,198 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "153",
+			"position": [
+				1872.5,
+				1951.41
+			],
+			"popup": {
+				"title": "Pegassi Tempesta",
+				"description": "Location: [[Vice City]]<br/>Guaranteed Tempesta spawn: if it is not here, save and reload until it appears.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "154",
+			"position": [
+				921.09,
+				2290.78
+			],
+			"popup": {
+				"title": "Declasse '86 Rancher (Stars and Stripes)",
+				"description": "Location: [[Port Gellhorn]]<br/>Off-road pickup with a US-flag paint job, a barbecue and camping gear in the bed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "155",
+			"position": [
+				1055.94,
+				2318.75
+			],
+			"popup": {
+				"title": "Declasse Akane (Stripped)",
+				"description": "Location: [[Port Gellhorn]]<br/>Green hatchback stripped down to the body, drivable, off-road modified.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "156",
+			"position": [
+				1607.19,
+				720.47
+			],
+			"popup": {
+				"title": "Vapid DriveShaft Hustler",
+				"description": "Location: [[Key Lento]]<br/>A unique teal vintage hot rod with black flame decals, from the DriveShaft Famous set.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "157",
+			"position": [
+				921.25,
+				2031.56
+			],
+			"popup": {
+				"title": "Maibatsu Yesteryear Boomazoom",
+				"description": "Location: [[Port Gellhorn]]<br/>A mobility scooter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "158",
+			"position": [
+				911.88,
+				2041.25
+			],
+			"popup": {
+				"title": "'95 Bison 900",
+				"description": "Location: [[Port Gellhorn]]<br/>Off-road 1990s classic on big wheels (like a mini monster truck), white with black stripes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "159",
+			"position": [
+				1734.38,
+				2011.25
+			],
+			"popup": {
+				"title": "Pink Gallivanter Baller II",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "160",
+			"position": [
+				1547.81,
+				737.5
+			],
+			"popup": {
+				"title": "Bombora S23",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "161",
+			"position": [
+				1622.03,
+				2842.5
+			],
+			"popup": {
+				"title": "Dinka Enduro",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Parked here at night.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "162",
+			"position": [
+				1293.44,
+				2896.09
+			],
+			"popup": {
+				"title": "Martha's Declasse",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the barn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "163",
+			"position": [
+				2219.06,
+				1688.28
+			],
+			"popup": {
+				"title": "Pfister '88 Comet",
+				"description": "Location: [[Vice Beach]]<br/>In the garage in the alley.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "164",
+			"position": [
+				928.28,
+				2179.84
+			],
+			"popup": {
+				"title": "Benefactor Schafter V12",
+				"description": "Location: [[Port Gellhorn]]<br/>Parked here, and it looks far too good for the place.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

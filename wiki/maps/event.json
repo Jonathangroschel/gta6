@@ -1450,6 +1450,262 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				1093.13,
+				2696.88
+			],
+			"popup": {
+				"title": "Burning Car Collision",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two cars have collided and one is burning. The black pickup has a large chest in its bed with cocaine, cash and a Zhang Wu Type 9.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1042.5,
+				2659.84
+			],
+			"popup": {
+				"title": "Kitty Litter Drug Ring",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A woman produces Kitty Litter, a synthetic drug. If you pass through, you have to wait until the police finish their operation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				2249.53,
+				1507.34
+			],
+			"popup": {
+				"title": "AI Ex-CEO",
+				"description": "Location: [[Vice Beach]]<br/>May only appear at night.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				2165.31,
+				1545.47
+			],
+			"popup": {
+				"title": "Stuntman",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				1485.16,
+				2793.13
+			],
+			"popup": {
+				"title": "Ghost Woman",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Drive here at night: your car shuts off and a ghost woman crawls towards you, then appears in your car or as you get out.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				2027.03,
+				2578.75
+			],
+			"popup": {
+				"title": "Ghost Ship (lighthouse)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Go to the lighthouse at night: you hear voices and see ghosts that leave clues to a cursed knife in the ocean. With the knife, climb to the top of the lighthouse and face the ocean: the ghost ship appears.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				1212.03,
+				2173.28
+			],
+			"popup": {
+				"title": "Bridge Jumpers",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A couple of kids jump off the bridge. Challenge them and choose to jump together, and there is more to this encounter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				1089.69,
+				2104.53
+			],
+			"popup": {
+				"title": "Drunk Tractor Driver",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A drunk man asks you to help him drive his tractor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				2133.44,
+				1686.25
+			],
+			"popup": {
+				"title": "Carjacker at Gunpoint",
+				"description": "Location: [[Vice Beach]]<br/>A stranger gets into your car, holds a gun to your head and makes you drive.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1093.13,
+				2157.03
+			],
+			"popup": {
+				"title": "Gasoline Bath",
+				"description": "Location: [[Port Gellhorn]]<br/>A man is filling his bathtub with gasoline.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				1514.06,
+				1037.66
+			],
+			"popup": {
+				"title": "Gang Revenge",
+				"description": "Location: [[Hamlet]]<br/>Witness a drive-by shooting: gang retaliation in which a rival member (an M7 recruit) is killed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				1264.53,
+				959.22
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				1709.38,
+				2041.09
+			],
+			"popup": {
+				"title": "Insurance Fraud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>After an accident, a man in a burning car: help him and it turns into insurance fraud.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				1267.19,
+				1648.28
+			],
+			"popup": {
+				"title": "Bear Protesters (animal transport)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Protesters block a truck carrying a live bear.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "104",
+			"position": [
+				1288.75,
+				2234.53
+			],
+			"popup": {
+				"title": "Crop Dusting Job (McKittrick Farm)",
+				"description": "Location: [[Ambrosia]]<br/>A job posting at the Starlet Motel says to call Kyle at McKittrick Farm: he has a crop dusting job.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "105",
+			"position": [
+				1237.19,
+				479.22
+			],
+			"popup": {
+				"title": "Taser Arrest",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man climbs onto a police car, gets tasered and is arrested.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

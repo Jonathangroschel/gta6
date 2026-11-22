@@ -906,6 +906,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				1282.03,
+				1918.28
+			],
+			"popup": {
+				"title": "Safe (abandoned house)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Climb onto the abandoned house and go through the hole in the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				900.16,
+				910.94
+			],
+			"popup": {
+				"title": "Safe (shipwreck)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the wrecked ship.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

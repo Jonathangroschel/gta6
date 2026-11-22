@@ -490,6 +490,118 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				1386.56,
+				2938.59
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the campfire, under the seat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				785,
+				988.75
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the O of the SOS sign.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				718.75,
+				727.97
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the dead tree.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				1381.56,
+				2899.53
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the ditch: look for a glowing red light.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				550.94,
+				1678.28
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the dock.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				1097.66,
+				2871.25
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the ground right next to the shipwreck.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				1117.81,
+				2770.94
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>By the rock at the water's edge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

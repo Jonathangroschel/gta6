@@ -810,6 +810,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				1633.13,
+				1153.91
+			],
+			"popup": {
+				"title": "Molotov Cocktails",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Break open the crate at the end of the destroyed building, behind the drug deal gone wrong.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				1514.84,
+				1815.31
+			],
+			"popup": {
+				"title": "Black Eagle Import Kalinga .50",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the safe. Door code: 789987, safe code: 031462.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				1504.84,
+				1812.97
+			],
+			"popup": {
+				"title": "Hillinger Boomer",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a crate you can break open.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				1142.81,
+				1912.5
+			],
+			"popup": {
+				"title": "Convict Kalinga .50",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Enter at the Escaped Prisoners barn: underground, at the end of the collapsed tunnel, by the dead prisoner.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

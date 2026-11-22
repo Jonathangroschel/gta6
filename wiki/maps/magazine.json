@@ -874,6 +874,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1479.38,
+				1076.56
+			],
+			"popup": {
+				"title": "Tattoo Magazine: Backyard Wrestling Belt & Luchadora",
+				"description": "Location: [[Hamlet]]<br/>On the sofa by the B.A.M. flag.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1578.28,
+				761.09
+			],
+			"popup": {
+				"title": "Styling Magazine: Beard Style",
+				"description": "Location: [[Key Lento]]<br/>On the bed: read it to unlock a new beard style.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

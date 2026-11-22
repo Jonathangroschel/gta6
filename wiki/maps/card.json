@@ -4394,6 +4394,326 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "274",
+			"position": [
+				2140.16,
+				1874.84
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Anthony Poke II",
+				"description": "Location: [[Vice Beach]]<br/>Ajax Gym, 4th (top) floor: behind the treadmills a door leads to a corridor; the card is between the first two doors, on the poster/bulletin board.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "275",
+			"position": [
+				1753.59,
+				1842.19
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Captain Kreuks (Blue)",
+				"description": "Location: [[Vice City]]<br/>On the rooftop of the multistorey building, on the wall in the north-east corner (a radio is playing music there).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "276",
+			"position": [
+				1425.63,
+				2687.66
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Right Wing (White)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the notice board outside the store.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "277",
+			"position": [
+				2200.47,
+				1648.44
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Dominic Brizzolato",
+				"description": "Location: [[Vice Beach]]<br/>In the back room of the shop, in the larger safe.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "278",
+			"position": [
+				1523.75,
+				882.81
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Christian Delgado",
+				"description": "Location: [[Key Lento]]<br/>On top of the green lockers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "279",
+			"position": [
+				1238.13,
+				1120.63
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Danny McLean",
+				"description": "Location: [[Watson Bay]]<br/>In the gym behind the house, beside the punching bag.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "280",
+			"position": [
+				1566.56,
+				764.22
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Zander Paton",
+				"description": "Location: [[Key Lento]]<br/>Inside the bungalow, on top of the fridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "281",
+			"position": [
+				1498.91,
+				2777.5
+			],
+			"popup": {
+				"title": "Collectible Card",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a yellow box on a bench on the porch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "282",
+			"position": [
+				1765.47,
+				1810.63
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Terrance Ericks",
+				"description": "Location: [[Vice City]]<br/>In the garage you can break open, next to the door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "283",
+			"position": [
+				1045.16,
+				2300.94
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Dimitri Petrov",
+				"description": "Location: [[Port Gellhorn]]<br/>In a yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "284",
+			"position": [
+				1287.5,
+				1121.72
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Flamer",
+				"description": "Location: [[Watson Bay]]<br/>On the table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "285",
+			"position": [
+				1280,
+				2327.34
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Victor Maravilla",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a yellow box on the walkway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "286",
+			"position": [
+				1063.91,
+				2677.5
+			],
+			"popup": {
+				"title": "Liberty City Wrath card",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a grave, next to a football.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "287",
+			"position": [
+				1314.22,
+				2837.19
+			],
+			"popup": {
+				"title": "Player's Player of the Year card: Drake",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the building at the gold mine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "288",
+			"position": [
+				1044.22,
+				2672.97
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Flamer",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Williams Guest House: upstairs, on the shelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "289",
+			"position": [
+				1577.66,
+				742.97
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Steven Kendricks",
+				"description": "Location: [[Key Lento]]<br/>In a yellow box on the terrace.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "290",
+			"position": [
+				1715.31,
+				1785.16
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Femi-Nemesis",
+				"description": "Location: [[Vice City]]<br/>On the roof: the ladder is on the east side of the building (broken barbed wire on the west side).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "291",
+			"position": [
+				943.13,
+				2344.69
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: President Blunt",
+				"description": "Location: [[Port Gellhorn]]<br/>On the sofa.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "292",
+			"position": [
+				774.06,
+				1681.09
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Lev Volkov",
+				"description": "Location: [[Capri]]<br/>On the shelf, to the left of all the supplements.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "293",
+			"position": [
+				1807.97,
+				1578.28
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Lloyd Robinson",
+				"description": "Location: [[Vice City]]<br/>In a box at the top of the cell tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
