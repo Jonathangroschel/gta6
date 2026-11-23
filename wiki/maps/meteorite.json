@@ -602,6 +602,246 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				1684.69,
+				2067.19
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the garage, under the bed the magazine is lying on.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				695.94,
+				756.25
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the little waterhole.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				493.13,
+				1966.09
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under a dead tree.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				1475.63,
+				2586.41
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the rocks by the river.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				1759.84,
+				2910.78
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near a campsite, partly in the water, glowing bright pink. Head towards the crashed boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				1073.75,
+				2832.34
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Underneath a metal panel in the middle of the C0-B8 Fairing impact crater, right next to the C0-B8 Fairing curiosity.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				1478.59,
+				3040.47
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to the white overturned rowboat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				481.25,
+				1930.47
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under a tree trunk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				993.91,
+				2795.63
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the middle of the C0-B8 Debris crater.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				1188.59,
+				2850.63
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the summit of the little island.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				858.59,
+				2509.38
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the left trash outlet tube.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				1971.09,
+				2287.66
+			],
+			"popup": {
+				"title": "Meteorite Fragment (office)",
+				"description": "Location: [[Waning Sands]]<br/>In the office, next to the pool table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				697.5,
+				1640.94
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				1326.41,
+				2808.44
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Meteorite",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				625.47,
+				2468.44
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to a wooden box; easier to see at night.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

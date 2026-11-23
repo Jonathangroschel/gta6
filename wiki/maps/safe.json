@@ -938,6 +938,86 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1814.38,
+				1846.09
+			],
+			"popup": {
+				"title": "Safe (slum house)",
+				"description": "Location: [[Vice City]]<br/>Code: 9790.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				1576.88,
+				2847.34
+			],
+			"popup": {
+				"title": "Safe (caravan)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the caravan with the unique pistols: cash and a collectible card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				1784.69,
+				1847.34
+			],
+			"popup": {
+				"title": "Safe (gaming room)",
+				"description": "Location: [[Vice City]]<br/>In the gaming room of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				1535.47,
+				665.31
+			],
+			"popup": {
+				"title": "Exotic Animals Front: Hidden Stash",
+				"description": "Location: [[Key Lento]]<br/>Listen to the parrot when it tells you to check the generator: right behind it there's an air shaft in the wall.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				905.16,
+				2191.72
+			],
+			"popup": {
+				"title": "Safe (Prairie Court)",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the house; it needs a code.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

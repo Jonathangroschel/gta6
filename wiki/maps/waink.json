@@ -1482,6 +1482,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				1551.72,
+				737.5
+			],
+			"popup": {
+				"title": "Dolores the Snake",
+				"description": "Location: [[Key Lento]]<br/>After Chapter 1, under the stairs: Dolores the snake with her eggs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				1604.22,
+				2211.09
+			],
+			"popup": {
+				"title": "QR Code (The Thirsty Wolf)",
+				"description": "Location: [[Ambrosia]]<br/>A QR code in the bathroom to scan with Waink. A message arrives after a moment, which may lead to more.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				1220.31,
+				1999.84
+			],
+			"popup": {
+				"title": "QR Code (Stop! Don't Flush)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the men's restroom. Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				2153.28,
+				1611.56
+			],
+			"popup": {
+				"title": "Pout Magazine",
+				"description": "Location: [[Vice Beach]]<br/>Scan the magazine at the top of the building in the balcony lounge to unlock a new makeup style of Lucia",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

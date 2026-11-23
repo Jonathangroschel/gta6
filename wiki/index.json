@@ -12,17 +12,17 @@
     {
       "title": "Map:GTA VI: Collectible Cards",
       "path": "maps/card.json",
-      "markers": 317
+      "markers": 373
     },
     {
       "title": "Map:GTA VI: WAiNK Scans",
       "path": "maps/waink.json",
-      "markers": 91
+      "markers": 95
     },
     {
       "title": "Map:GTA VI: Magazines, Books and Comics",
       "path": "maps/magazine.json",
-      "markers": 55
+      "markers": 74
     },
     {
       "title": "Map:GTA VI: Unique Playlists",
@@ -42,7 +42,7 @@
     {
       "title": "Map:GTA VI: Races",
       "path": "maps/race.json",
-      "markers": 53
+      "markers": 54
     },
     {
       "title": "Map:GTA VI: Drone Time Trials",
@@ -62,12 +62,12 @@
     {
       "title": "Map:GTA VI: Gang Operations",
       "path": "maps/gang.json",
-      "markers": 42
+      "markers": 43
     },
     {
       "title": "Map:GTA VI: Banks and Vaults",
       "path": "maps/bank.json",
-      "markers": 22
+      "markers": 23
     },
     {
       "title": "Map:GTA VI: Smash 'n' Grabs",
@@ -87,12 +87,12 @@
     {
       "title": "Map:GTA VI: Hidden Packages",
       "path": "maps/package.json",
-      "markers": 45
+      "markers": 76
     },
     {
       "title": "Map:GTA VI: Meteorites",
       "path": "maps/meteorite.json",
-      "markers": 36
+      "markers": 51
     },
     {
       "title": "Map:GTA VI: Treasures",
@@ -117,7 +117,7 @@
     {
       "title": "Map:GTA VI: Standout Vehicles",
       "path": "maps/vehicle.json",
-      "markers": 164
+      "markers": 204
     },
     {
       "title": "Map:GTA VI: Under the Bridge Flights",
@@ -132,7 +132,7 @@
     {
       "title": "Map:GTA VI: BASE Jumps",
       "path": "maps/basejump.json",
-      "markers": 28
+      "markers": 32
     },
     {
       "title": "Map:GTA VI: Fishing Spots",
@@ -142,17 +142,17 @@
     {
       "title": "Map:GTA VI: Hunting Locations",
       "path": "maps/hunting.json",
-      "markers": 5
+      "markers": 7
     },
     {
       "title": "Map:GTA VI: Random Events",
       "path": "maps/event.json",
-      "markers": 131
+      "markers": 183
     },
     {
       "title": "Map:GTA VI: Safes",
       "path": "maps/safe.json",
-      "markers": 57
+      "markers": 62
     },
     {
       "title": "Map:GTA VI: Towable ATMs",
@@ -167,12 +167,12 @@
     {
       "title": "Map:GTA VI: Weapon Pickups",
       "path": "maps/weapon.json",
-      "markers": 53
+      "markers": 82
     },
     {
       "title": "Map:GTA VI: 100% Completion",
       "path": "maps/completion.json",
-      "markers": 1409
+      "markers": 1524
     }
   ]
 }

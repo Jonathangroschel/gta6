@@ -2650,6 +2650,646 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "165",
+			"position": [
+				1612.03,
+				1044.22
+			],
+			"popup": {
+				"title": "Buckingham SuperVolito",
+				"description": "Location: [[Hamlet]]<br/>At the heliport (it spawned here 3 out of 4 visits).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "166",
+			"position": [
+				1870.47,
+				1834.84
+			],
+			"popup": {
+				"title": "Invetero Coquette D10 (Graffiti)",
+				"description": "Location: [[Vice City]]<br/>Pink and teal graffiti wrap, parked under the canopy.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "167",
+			"position": [
+				731.72,
+				2136.88
+			],
+			"popup": {
+				"title": "BF '77 Bandito (Stars and Stripes)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "168",
+			"position": [
+				1733.44,
+				1793.59
+			],
+			"popup": {
+				"title": "Bravado '69 Gauntlet (HWL YEAH)",
+				"description": "Location: [[Vice City]]<br/>Black and purple, licence plate \"HWL YEAH\", in the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "169",
+			"position": [
+				1267.34,
+				919.84
+			],
+			"popup": {
+				"title": "Nagasaki Sea Sparrow",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Free helicopter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "170",
+			"position": [
+				2013.44,
+				1672.97
+			],
+			"popup": {
+				"title": "Benefactor Gilded Dubsta",
+				"description": "Location: [[Vice City]]<br/>Solid gold, in the garage next to two gold jet skis. Needs the key cloner and has a standard tracker.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "171",
+			"position": [
+				2031.25,
+				2176.88
+			],
+			"popup": {
+				"title": "Gold Scarab Windsor",
+				"description": "Location: [[Waning Sands]]<br/>Black and gold Windsor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "172",
+			"position": [
+				1795.31,
+				1275.16
+			],
+			"popup": {
+				"title": "Pink Speedboat",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A pink boat for the catalogue.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "173",
+			"position": [
+				920.63,
+				2141.41
+			],
+			"popup": {
+				"title": "Dinka \"She's All That\" Blista",
+				"description": "Location: [[Port Gellhorn]]<br/>Pink car with eyelashes and lips.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "174",
+			"position": [
+				1146.09,
+				2323.59
+			],
+			"popup": {
+				"title": "Pegassi Toros",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Linked to an NPC you meet after rescuing a tourist from a black bear; the same NPC also appears in Lummox County near the MacAlister Gold Mine, so it may not be a fixed spawn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "175",
+			"position": [
+				898.44,
+				1601.72
+			],
+			"popup": {
+				"title": "Manga-Livery Hatchback",
+				"description": "Location: [[Capri]]<br/>Small car with a manga design, in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "176",
+			"position": [
+				759.22,
+				1694.84
+			],
+			"popup": {
+				"title": "Kit Car (project car)",
+				"description": "Location: [[Capri]]<br/>A car to restore, at Wyman.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "177",
+			"position": [
+				1303.13,
+				986.88
+			],
+			"popup": {
+				"title": "Seashark (Leonida Man)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Jet ski.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "178",
+			"position": [
+				757.34,
+				1704.06
+			],
+			"popup": {
+				"title": "Pfister Comet ('88)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "179",
+			"position": [
+				1086.25,
+				1766.88
+			],
+			"popup": {
+				"title": "Maibatsu Manchez (Pink/Blue)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the back of the shop, with a unique pink and blue paint job: enter through the back, or through reception after threatening the clerk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "180",
+			"position": [
+				759.06,
+				1688.59
+			],
+			"popup": {
+				"title": "Pegassi Vitello (Orange)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "181",
+			"position": [
+				780,
+				1673.44
+			],
+			"popup": {
+				"title": "Bravado Banshee",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "182",
+			"position": [
+				758.75,
+				1694.22
+			],
+			"popup": {
+				"title": "Progen Seaspray Emerus",
+				"description": "Location: [[Capri]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "183",
+			"position": [
+				898.59,
+				2161.72
+			],
+			"popup": {
+				"title": "Candyman Scorcher",
+				"description": "Location: [[Port Gellhorn]]<br/>Pink bike parked in front of Sarena's Bargain Store.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "184",
+			"position": [
+				1053.59,
+				1951.72
+			],
+			"popup": {
+				"title": "Grotti RSX",
+				"description": "Location: [[Port Gellhorn]]<br/>A Ferrari-style replica.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "185",
+			"position": [
+				2058.44,
+				1800.47
+			],
+			"popup": {
+				"title": "Pegassi Lustrous Toros",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Gold Pegassi Toros.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "186",
+			"position": [
+				1699.69,
+				1400.31
+			],
+			"popup": {
+				"title": "Cheetah (1010 Murals reward)",
+				"description": "Location: [[Vice City]]<br/>In the garage where the car appears after all 5 murals are found.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "187",
+			"position": [
+				776.88,
+				493.59
+			],
+			"popup": {
+				"title": "Military Helicopter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Spawn point of a big military helicopter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "188",
+			"position": [
+				2176.09,
+				1567.19
+			],
+			"popup": {
+				"title": "Pfister Hornet Growler",
+				"description": "Location: [[Vice Beach]]<br/>On the second floor of the car park, in the middle section.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "189",
+			"position": [
+				1881.72,
+				1903.28
+			],
+			"popup": {
+				"title": "Vapid Guardian TX2 (Lowrider)",
+				"description": "Location: [[Vice City]]<br/>A lowrider truck.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "190",
+			"position": [
+				2020.63,
+				2191.56
+			],
+			"popup": {
+				"title": "Vapid Slamvan '56",
+				"description": "Location: [[Waning Sands]]<br/>In the last garage on the right: the car without a plate.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "191",
+			"position": [
+				1143.13,
+				3031.41
+			],
+			"popup": {
+				"title": "Bombora S23 CCS",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A Bombora S23 CCS boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "192",
+			"position": [
+				1228.59,
+				3068.75
+			],
+			"popup": {
+				"title": "Bombora S23 CCS",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A Bombora S23 CCS boat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "193",
+			"position": [
+				1883.44,
+				1917.81
+			],
+			"popup": {
+				"title": "Ubermacht FCR 1000",
+				"description": "Location: [[Vice City]]<br/>In the building with an orange mural on the side: get in through the alarmed shutter and door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "194",
+			"position": [
+				1296.41,
+				2924.69
+			],
+			"popup": {
+				"title": "Tormentor Street Blazer (ATV)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>An ATV parked in the shed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "195",
+			"position": [
+				2018.75,
+				1774.38
+			],
+			"popup": {
+				"title": "Vice Vinyl Coquette",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "196",
+			"position": [
+				1966.25,
+				1797.97
+			],
+			"popup": {
+				"title": "Princess Jubilee",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "197",
+			"position": [
+				936.88,
+				2304.38
+			],
+			"popup": {
+				"title": "Declasse Beer Nuts Yosemite",
+				"description": "Location: [[Port Gellhorn]]<br/>Parked in the yard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "198",
+			"position": [
+				590.94,
+				1915.63
+			],
+			"popup": {
+				"title": "Buckingham Swift",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A helicopter on the helipad.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "199",
+			"position": [
+				940.63,
+				598.13
+			],
+			"popup": {
+				"title": "Riata ('70)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A vehicle Wyman asks for.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "200",
+			"position": [
+				2092.66,
+				1597.19
+			],
+			"popup": {
+				"title": "Coast Guard Helicopter",
+				"description": "Location: [[Vice Beach]]<br/>On the helipad of the Coast Guard base.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "201",
+			"position": [
+				770.31,
+				1660.31
+			],
+			"popup": {
+				"title": "Pegassi Vitello",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "202",
+			"position": [
+				771.88,
+				1645.16
+			],
+			"popup": {
+				"title": "Pegassi Tempesta",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "203",
+			"position": [
+				1274.69,
+				2238.28
+			],
+			"popup": {
+				"title": "Kyle's Mallard",
+				"description": "Location: [[Ambrosia]]<br/>A retro plane for the catalogue.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "204",
+			"position": [
+				1121.72,
+				1674.69
+			],
+			"popup": {
+				"title": "Delaney Racing Car",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the building with the green doors.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -906,6 +906,310 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				1120.94,
+				2205.63
+			],
+			"popup": {
+				"title": "Tattoo Magazine (under the bridge)",
+				"description": "Location: [[Port Gellhorn]]<br/>Under the bridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				770.47,
+				1645.16
+			],
+			"popup": {
+				"title": "Dazzle",
+				"description": "Location: [[Capri]]<br/>On the 2nd floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1041.88,
+				2583.91
+			],
+			"popup": {
+				"title": "The Cowboy's Prayer",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Immediately right of the front door, on a shelf at head height.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				1255.78,
+				2622.66
+			],
+			"popup": {
+				"title": "Waink Tattoo Style (tower)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the top of the tower: scan it with the Waink app to unlock a tattoo style.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				1149.69,
+				1132.81
+			],
+			"popup": {
+				"title": "Styling Magazine: Cowboy Horseshoe Mustache",
+				"description": "Location: [[Watson Bay]]<br/>On the chair in the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				1845.31,
+				1790.31
+			],
+			"popup": {
+				"title": "Book: Passion B.C.",
+				"description": "Location: [[Vice City]]<br/>In the safehouse bathroom, past the bedroom by the tub. Available until Chapter 3.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				1845.16,
+				1791.25
+			],
+			"popup": {
+				"title": "Book: Two Pricks in the Bush",
+				"description": "Location: [[Vice City]]<br/>In the Bayside apartment, on the glass table in front of the TV. Available until the end of Chapter 3.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				1847.03,
+				1883.75
+			],
+			"popup": {
+				"title": "Pout: Tiger Eyes Makeup",
+				"description": "Location: [[Vice City]]<br/>In the office on the second floor of the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				1847.5,
+				1879.84
+			],
+			"popup": {
+				"title": "Lights, Camera, Affirmative Action",
+				"description": "Location: [[Vice City]]<br/>On the table next to the couches.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				1533.75,
+				716.09
+			],
+			"popup": {
+				"title": "Book: Passion B.C. (Jason's house)",
+				"description": "Location: [[Key Lento]]<br/>On the corner of the bar during the escape from Jason's home in Chapter 1.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1574.69,
+				1102.19
+			],
+			"popup": {
+				"title": "Magazine rack: 247 - Hamlet",
+				"description": "Location: [[Hamlet]]<br/>Magazines on the shelf next to the cashier: ¡Bombazo!, Special Friends Force and Body Copy (the same one as at Jason's house).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1949.22,
+				1342.19
+			],
+			"popup": {
+				"title": "Mermaid Tattoo Book",
+				"description": "Location: [[Gloriana Key]]<br/>In the same building as the mermaid statues: follow the door around the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				1498.28,
+				1103.91
+			],
+			"popup": {
+				"title": "Law & Litigation in Leonida",
+				"description": "Location: [[Hamlet]]<br/>On the coffee table in the messy apartment: go up one floor, first apartment on the left.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				1503.44,
+				2624.22
+			],
+			"popup": {
+				"title": "Tattoo Magazine (lovers' camp)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Beside the bed in the lovers' camp.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				1257.97,
+				2748.28
+			],
+			"popup": {
+				"title": "Book: The Cowboy's Prayer (motel reception)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the coffee table in the motel's reception.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				1610.16,
+				766.88
+			],
+			"popup": {
+				"title": "Off The Hook - America's No. 1 Fishing Magazine",
+				"description": "Location: [[Key Lento]]<br/>On the magazine board in the gas station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1747.34,
+				2613.91
+			],
+			"popup": {
+				"title": "Book: The Cowboy's Prayer (bar)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a table in the bar.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				1657.03,
+				1258.13
+			],
+			"popup": {
+				"title": "DriveShaft: The Deviant",
+				"description": "Location: [[Vice City]]<br/>On the magazine rack to the left of the counter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				1675,
+				2060.94
+			],
+			"popup": {
+				"title": "Styling Magazine (Lucia's make-up)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A styling magazine that unlocks a new make-up style for Lucia.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

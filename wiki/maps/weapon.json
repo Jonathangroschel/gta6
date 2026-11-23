@@ -874,6 +874,470 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1345,
+				1845.78
+			],
+			"popup": {
+				"title": "Swamp Bait Akulus",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Revolver. On the floor of a wrecked cabin in the middle of the Pelican Valley swamp.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1525.78,
+				987.97
+			],
+			"popup": {
+				"title": "Rocket Launcher",
+				"description": "Location: [[Hamlet]]<br/>Contents may vary: a member found a shotgun in it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				1797.03,
+				1867.19
+			],
+			"popup": {
+				"title": "Chromium W-10",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, inside the house in the gaming room.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				1742.5,
+				1533.44
+			],
+			"popup": {
+				"title": "Sticky Bombs",
+				"description": "Location: [[Vice City]]<br/>Crate with 3 sticky bombs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1650.31,
+				1667.34
+			],
+			"popup": {
+				"title": "Spangled Vatra",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, for sale only at this Ammu-Nation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				1676.72,
+				1693.59
+			],
+			"popup": {
+				"title": "Guardia Brothers VF5",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, on the coffee table on the second floor of the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				1543.75,
+				1665
+			],
+			"popup": {
+				"title": "Laird 350 Sniper Rifle",
+				"description": "Location: [[Vice City]]<br/>Up top, by the card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				906.09,
+				2155.63
+			],
+			"popup": {
+				"title": "Kolt & Associates Vatra",
+				"description": "Location: [[Port Gellhorn]]<br/>Unique SMG very close to the door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				1076.56,
+				1113.91
+			],
+			"popup": {
+				"title": "La Polilla Negra KZ-59",
+				"description": "Location: [[Watson Bay]]<br/>On a weapon case, close to the safe.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				2202.19,
+				1694.69
+			],
+			"popup": {
+				"title": "Zodiac Nipper .38",
+				"description": "Location: [[Vice Beach]]<br/>In the garage of the robbery opportunity.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				897.66,
+				2277.19
+			],
+			"popup": {
+				"title": "Rocket Launcher",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				1576.41,
+				2845.16
+			],
+			"popup": {
+				"title": "Money Bag & Deadringer 1922 Pistols",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two unique 1922 pistols inside the caravan.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1363.59,
+				2872.19
+			],
+			"popup": {
+				"title": "Martha's 1922 Pistol",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Go into the house and search the oven.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1246.41,
+				2232.19
+			],
+			"popup": {
+				"title": "Flare Gun",
+				"description": "Location: [[Ambrosia]]<br/>Inside a metal box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				799.38,
+				1221.88
+			],
+			"popup": {
+				"title": "Double Cross Vatra (Heavy SMG)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the sea floor, right under the Cocaine Yacht.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				926.25,
+				2274.22
+			],
+			"popup": {
+				"title": "Kolt & Associates 556",
+				"description": "Location: [[Port Gellhorn]]<br/>Unique AR: in a weapon case beside the safe in the right dorm.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				2057.81,
+				1546.88
+			],
+			"popup": {
+				"title": "Cargo H&L .38",
+				"description": "Location: [[Vice Beach]]<br/>Unique revolver in a SCOOP crate, alongside a few bricks of cocaine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				924.53,
+				2100.31
+			],
+			"popup": {
+				"title": "ADB M350 Longarm",
+				"description": "Location: [[Port Gellhorn]]<br/>After killing Booker you can take this gun off his body.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1378.91,
+				898.91
+			],
+			"popup": {
+				"title": "Kingfishers Akulus",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				1746.88,
+				1807.03
+			],
+			"popup": {
+				"title": "Hobo Shotgun (for sale)",
+				"description": "Location: [[Vice City]]<br/>A unique weapon you can buy from this store.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				1995.78,
+				1789.69
+			],
+			"popup": {
+				"title": "Kingpin Heathen",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the room with the two safes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				769.38,
+				1490
+			],
+			"popup": {
+				"title": "Turnt Nipper .38",
+				"description": "Location: [[Capri]]<br/>Shoot the glider down by aiming at its ropes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				1207.66,
+				2021.09
+			],
+			"popup": {
+				"title": "Explorer's Knife",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the underwater cave: scuba gear can be picked up at the stairs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				910.78,
+				2175.16
+			],
+			"popup": {
+				"title": "Couch Potato Mustang .357",
+				"description": "Location: [[Port Gellhorn]]<br/>In front of Dunk's trailer: shoot the rope holding the couch in the tree, then sit on it to find the revolver.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				1477.5,
+				627.97
+			],
+			"popup": {
+				"title": "Wortham WCR-1",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				1906.09,
+				1965.47
+			],
+			"popup": {
+				"title": "Molotov Cocktails & Hammer",
+				"description": "Location: [[Vice City]]<br/>A Molotov crate in the parking bay for the delivery truck, with a hammer on top.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				922.81,
+				2104.06
+			],
+			"popup": {
+				"title": "Shotgun (Kingpin Bowling)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the case on the pool table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				979.38,
+				1218.28
+			],
+			"popup": {
+				"title": "Flare Gun",
+				"description": "Location: [[Watson Bay]]<br/>In the hangar, up the stairs: a wooden crate on the side with money and the flare gun.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				1226.41,
+				907.66
+			],
+			"popup": {
+				"title": "Fortune & Son Laird 350",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Against some wooden pallets.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

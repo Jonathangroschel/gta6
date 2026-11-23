@@ -746,6 +746,502 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				1216.09,
+				1077.66
+			],
+			"popup": {
+				"title": "Weed Stash (house)",
+				"description": "Location: [[Watson Bay]]<br/>Enter through the front, where there are no residents; avoid the back.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				1132.34,
+				1104.53
+			],
+			"popup": {
+				"title": "Pills Stash",
+				"description": "Location: [[Watson Bay]]<br/>Pills ($260) in the back bedroom, and another set in the back bathroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				1733.13,
+				1709.06
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Vice City]]<br/>In the store lockup.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				901.25,
+				2180.94
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				955.16,
+				507.66
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the one inside the house: walk out, go straight to the damaged wall and look far right.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				912.19,
+				2042.34
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Port Gellhorn]]<br/>At the front of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				934.22,
+				2292.97
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Port Gellhorn]]<br/>On the roof (white beak).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				1242.03,
+				1908.13
+			],
+			"popup": {
+				"title": "LSD Stash (bus)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Some LSD is hidden in the bus.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1176.25,
+				1223.75
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the small cave off the side of the road.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1109.38,
+				1277.97
+			],
+			"popup": {
+				"title": "Tower Stash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Loot ($349) and weed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				794.06,
+				1699.22
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Capri]]<br/>White beak, behind the grill.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				569.69,
+				1544.06
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the shipping containers, by the burning pile.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1576.41,
+				746.56
+			],
+			"popup": {
+				"title": "Easter Egg: Evidence of a Murder",
+				"description": "Location: [[Key Lento]]<br/>Behind Mandy's house: a plastic drum big enough to fit a person, next to a body-sized patch of dug-up dirt.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				880.63,
+				1607.66
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Capri]]<br/>Among the flamingos in the middle of the Halloween House's front yard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				908.28,
+				2124.38
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Port Gellhorn]]<br/>In front of the house by the highway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				963.28,
+				678.59
+			],
+			"popup": {
+				"title": "Macizo Cigars",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Among the wreckage on the shore.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				1521.56,
+				1235
+			],
+			"popup": {
+				"title": "Easter Egg: Bird Nest on the Mast",
+				"description": "Location: [[Hamlet]]<br/>Climb the mast all the way up to find a nest with an egg. Nothing to keep: you can only throw it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				1942.66,
+				2378.13
+			],
+			"popup": {
+				"title": "Half Brick of Cocaine",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				1952.03,
+				2440.78
+			],
+			"popup": {
+				"title": "Dead Man's Wallet",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A dead man lies on the beach of the island. The wallet next to him held $1,238 in cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				940.47,
+				539.22
+			],
+			"popup": {
+				"title": "Cocaine Crate",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A large crate near a guard leaning over a rail. It had cocaine in it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1311.25,
+				2910.31
+			],
+			"popup": {
+				"title": "Pills Stash (gold mine)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Pills and a card, on the shelves.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1652.03,
+				1300.47
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Vice City]]<br/>In front of the brick and white house with the hearts.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				1228.59,
+				2436.25
+			],
+			"popup": {
+				"title": "Easter Egg: Beeping Bed (observatory)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Enter the dome from the top and go all the way down. Sit on the chair, get up and walk to the bed on the floor to find something to interact with.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				1632.34,
+				760
+			],
+			"popup": {
+				"title": "Bag of Cocaine (pool)",
+				"description": "Location: [[Key Lento]]<br/>On the table next to the pool.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				1497.5,
+				1043.44
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				1477.97,
+				1079.53
+			],
+			"popup": {
+				"title": "Gentrificator Mask",
+				"description": "Location: [[Hamlet]]<br/>After the caravan fight, go inside to find a mask you can use to hide your face in robberies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1489.06,
+				1050
+			],
+			"popup": {
+				"title": "Crystal Stash",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				1250.31,
+				1904.38
+			],
+			"popup": {
+				"title": "Shrooms Stash",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				1509.53,
+				1266.56
+			],
+			"popup": {
+				"title": "Cash Box ($300)",
+				"description": "Location: [[Vice City]]<br/>A cash box with about $300 in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				1290.63,
+				2015.16
+			],
+			"popup": {
+				"title": "$330 cash in box south side of this building",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>$330 cash in box south side of Building",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				1312.19,
+				2069.38
+			],
+			"popup": {
+				"title": "Scoop Shipping container",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scoop Shipping container Require cutting tool from chapter 3",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

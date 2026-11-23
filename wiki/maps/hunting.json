@@ -106,6 +106,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				1086.41,
+				2595.47
+			],
+			"popup": {
+				"title": "Grayson Hunting Spot",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A good place to find black bears and wild boars.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				1321.41,
+				2829.22
+			],
+			"popup": {
+				"title": "Moreau Hunting Spot",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A good place to find black bears and black foxes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

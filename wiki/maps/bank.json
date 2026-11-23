@@ -378,6 +378,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				900.94,
+				1679.22
+			],
+			"popup": {
+				"title": "ATM",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

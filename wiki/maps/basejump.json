@@ -474,6 +474,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				1617.97,
+				784.84
+			],
+			"popup": {
+				"title": "Parachute",
+				"description": "Location: [[Key Lento]]<br/>On top of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				2188.91,
+				1972.66
+			],
+			"popup": {
+				"title": "Parachute",
+				"description": "Location: [[Vice Beach]]<br/>A box of parachutes at the south-east end of the rooftop walkway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				2177.66,
+				1982.97
+			],
+			"popup": {
+				"title": "Parachute",
+				"description": "Location: [[Vice Beach]]<br/>A box of parachutes on the rooftop walkway, north side of the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				1891.72,
+				1978.59
+			],
+			"popup": {
+				"title": "Parachute (Flash FM transmitter)",
+				"description": "Location: [[Vice City]]<br/>At the top of the Flash FM radio transmitter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

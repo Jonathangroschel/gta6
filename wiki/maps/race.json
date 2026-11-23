@@ -874,6 +874,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1019.69,
+				2630.94
+			],
+			"popup": {
+				"title": "Animal Crackers - Grayson",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>An Animal Crackers race, starting next to the Farm Tour and Red Canyon Run races.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

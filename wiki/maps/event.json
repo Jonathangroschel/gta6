@@ -2122,6 +2122,838 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "132",
+			"position": [
+				1770.31,
+				974.53
+			],
+			"popup": {
+				"title": "Non-Flusher Movement QR Code",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scan the QR code with WAiNK and answer the Non-Flusher Movement message: it unlocks the side mission to meet a contact at Frank's Waffles in Tequesta, Vice-Dale County.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "133",
+			"position": [
+				1085.78,
+				2143.28
+			],
+			"popup": {
+				"title": "Creepy Neighbour Zach",
+				"description": "Location: [[Port Gellhorn]]<br/>Zach is poking a dead animal with a tree branch; call him out and see what happens.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "134",
+			"position": [
+				1325.16,
+				883.44
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "135",
+			"position": [
+				1337.5,
+				922.19
+			],
+			"popup": {
+				"title": "Skunk Ape Effigy",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "136",
+			"position": [
+				907.66,
+				2225.16
+			],
+			"popup": {
+				"title": "ATV Rally",
+				"description": "Location: [[Port Gellhorn]]<br/>A crowd watches ATVs jump one of the stunt jumps, and you are invited to take part: a guy challenges you to jump over the concession building for $500.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "137",
+			"position": [
+				2218.44,
+				1755.94
+			],
+			"popup": {
+				"title": "Robbed Naked Man",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "138",
+			"position": [
+				882.5,
+				2214.06
+			],
+			"popup": {
+				"title": "Car Jacking Lesson",
+				"description": "Location: [[Port Gellhorn]]<br/>Help a woman break into a locked car and steal it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "139",
+			"position": [
+				1102.97,
+				2121.56
+			],
+			"popup": {
+				"title": "Overpass Vandals (computers)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Three rednecks throw computers at cars from the highway overpass. You can scare them off.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "140",
+			"position": [
+				1044.69,
+				1767.03
+			],
+			"popup": {
+				"title": "Delirious Farmer",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A farmer driving his tractor in circles.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "141",
+			"position": [
+				994.69,
+				1693.44
+			],
+			"popup": {
+				"title": "Overpass Droppings",
+				"description": "Location: [[Capri]]<br/>Three people throw tyres and junk off the overpass. Confront them and they back off quickly.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "142",
+			"position": [
+				1553.59,
+				1092.19
+			],
+			"popup": {
+				"title": "Drive-Through Rant (Pollo Diablo)",
+				"description": "Location: [[Hamlet]]<br/>A woman ranting about cheese at the drive-through window.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "143",
+			"position": [
+				1565.16,
+				2841.25
+			],
+			"popup": {
+				"title": "Caveman vs Panther",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>After the caveman deals with a panther, he challenges you to a race.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "144",
+			"position": [
+				1550,
+				2854.69
+			],
+			"popup": {
+				"title": "Man vs Bear",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Tell the man to scare the bear off and he survives and promises to send you money.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "145",
+			"position": [
+				925,
+				2193.59
+			],
+			"popup": {
+				"title": "Sal, Shooting Victim",
+				"description": "Location: [[Port Gellhorn]]<br/>Sal was shot by people trying to rob his wallet. He needs a ride and help with something.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "146",
+			"position": [
+				1523.75,
+				1128.91
+			],
+			"popup": {
+				"title": "Package Delivery",
+				"description": "Location: [[Hamlet]]<br/>Deliver 3 packages for a broken-down Sahara driver.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "147",
+			"position": [
+				1096.72,
+				2403.91
+			],
+			"popup": {
+				"title": "Alien Aficionado",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man waiting to see something: keep the conversation going.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "148",
+			"position": [
+				1581.72,
+				716.72
+			],
+			"popup": {
+				"title": "Lady with a Broken Car",
+				"description": "Location: [[Key Lento]]<br/>A woman with a damaged car refuses help and gets aggressive. There is a stash in the trunk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "149",
+			"position": [
+				1844.06,
+				1786.41
+			],
+			"popup": {
+				"title": "Dumpster Man",
+				"description": "Location: [[Vice City]]<br/>An attorney asks for pills. If you give him pills, he gives you legal advice.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "150",
+			"position": [
+				1520.94,
+				1235.16
+			],
+			"popup": {
+				"title": "Influencer (antenna)",
+				"description": "Location: [[Hamlet]]<br/>At the top of the antenna, an influencer girl takes photos.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "151",
+			"position": [
+				1586.41,
+				519.69
+			],
+			"popup": {
+				"title": "Drug Boat Crash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A drug boat drives in circles and blows up, dropping cocaine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "152",
+			"position": [
+				928.91,
+				2038.44
+			],
+			"popup": {
+				"title": "Gasoline Bath",
+				"description": "Location: [[Port Gellhorn]]<br/>A hillbilly fills a tub with gas in the bed of his truck, argues with the gas station clerk, then speeds off.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "153",
+			"position": [
+				906.72,
+				2082.5
+			],
+			"popup": {
+				"title": "Revenge on Kolt Associates",
+				"description": "Location: [[Port Gellhorn]]<br/>Sal, who shot himself, asks you to get revenge on Booker at Kingpin Bowling.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "154",
+			"position": [
+				1020.31,
+				2634.38
+			],
+			"popup": {
+				"title": "Disgruntled Employee",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In Huck's Pump N Go you're recognised as one of the couple that robs stores all around Leonida.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "155",
+			"position": [
+				1110.31,
+				2205.78
+			],
+			"popup": {
+				"title": "Paleo Bro",
+				"description": "Location: [[Port Gellhorn]]<br/>A man who wants to fight a panther tries to assert his dominance over it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "156",
+			"position": [
+				1183.75,
+				2712.97
+			],
+			"popup": {
+				"title": "The Ghost of Rockledge Rd",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Driving down Rockledge Road at night, a ghostly figure runs across the road.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "157",
+			"position": [
+				1258.59,
+				2745.78
+			],
+			"popup": {
+				"title": "Influencing Gone Fatal",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two rednecks film Jason or Lucia making fun of you; when you confront them they pull out their guns.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "158",
+			"position": [
+				936.72,
+				2291.25
+			],
+			"popup": {
+				"title": "Mistaken Identity ($2,000)",
+				"description": "Location: [[Port Gellhorn]]<br/>A man mistakes you for someone else and asks you for $2,000.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "159",
+			"position": [
+				1603.91,
+				1636.88
+			],
+			"popup": {
+				"title": "Polar Bear Protest (freeway)",
+				"description": "Location: [[Vice City]]<br/>A group of activists protest on the freeway for the release of a polar bear.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "160",
+			"position": [
+				1731.72,
+				2062.5
+			],
+			"popup": {
+				"title": "Couch Trap",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Help a woman with a couch, get knocked out and wake up in a shipping container on an island.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "161",
+			"position": [
+				1372.34,
+				2789.53
+			],
+			"popup": {
+				"title": "Zeke Pimple: Target Practice",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two dudes want to challenge your shooting skills.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "162",
+			"position": [
+				1402.5,
+				771.41
+			],
+			"popup": {
+				"title": "Boar Rams a Man",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A boar runs out of the forest and rams a man.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "163",
+			"position": [
+				1299.84,
+				2826.88
+			],
+			"popup": {
+				"title": "The San Fierro Tourist",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the entrance to a mineshaft, a tourist from San Fierro runs away, scared of being attacked.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "164",
+			"position": [
+				1087.66,
+				2139.69
+			],
+			"popup": {
+				"title": "Toilet Talk",
+				"description": "Location: [[Port Gellhorn]]<br/>Wyman talks with the plumber about the toilets.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "165",
+			"position": [
+				1908.13,
+				2334.22
+			],
+			"popup": {
+				"title": "Dodos Rising",
+				"description": "Location: [[Waning Sands]]<br/>Activists protest against animal abuse: a polar bear is locked in the truck.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "166",
+			"position": [
+				1970.78,
+				2315.94
+			],
+			"popup": {
+				"title": "Overheard Conversation (chimney)",
+				"description": "Location: [[Waning Sands]]<br/>At the back, under the chimney, you can hear a conversation from inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "167",
+			"position": [
+				1972.5,
+				2300.47
+			],
+			"popup": {
+				"title": "Overheard Conversation (clinic)",
+				"description": "Location: [[Waning Sands]]<br/>On the left side, in the clinic, by the elevator.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "168",
+			"position": [
+				1726.88,
+				1337.34
+			],
+			"popup": {
+				"title": "Gang Car Crash",
+				"description": "Location: [[Vice City]]<br/>Gangsters roll their car over and are then killed by the police. Pick up the loot bag afterwards.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "169",
+			"position": [
+				1465,
+				609.84
+			],
+			"popup": {
+				"title": "Mobility Scooter Robber",
+				"description": "Location: [[Key Lento]]<br/>A woman on a mobility scooter steals a tourist's wallet, then tries to mug you.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "170",
+			"position": [
+				1859.22,
+				1835.78
+			],
+			"popup": {
+				"title": "Insurance Fraud (van crash)",
+				"description": "Location: [[Vice City]]<br/>A van crashes into a car. The man fakes an insurance claim and asks you to be his witness for a payout.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "171",
+			"position": [
+				1588.91,
+				732.5
+			],
+			"popup": {
+				"title": "Kingfisher Intimidation",
+				"description": "Location: [[Key Lento]]<br/>Camo Kingfisher pickup rolls up to harass and threaten random man in parking lot. Their mad that he blew them off and didnt show up, they say. After they leave I question the man who got harassed and he reveals a Kingfisher Robbery opportunity on an island 1.69m north of Ammu-Nation parking lot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "172",
+			"position": [
+				1813.75,
+				1802.34
+			],
+			"popup": {
+				"title": "Police Raid",
+				"description": "Location: [[Vice City]]<br/>Three or four police cars and a riot squad raid the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "173",
+			"position": [
+				1120.47,
+				1046.88
+			],
+			"popup": {
+				"title": "Mushroom Trip (stamina boost)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Eat the mushrooms to enter a trance and run an obstacle course. Finishing it improves your stamina.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "174",
+			"position": [
+				1352.81,
+				1717.34
+			],
+			"popup": {
+				"title": "Rescue the Girl from Dru Kol",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Get back in your car from going in the gas station to find her in the backseat. Drive her back to Gellhorn, raid the Kolt warehouse (4/5 enemies, suppressed weapon recommended) and then break the safe and collect the cash dotted around the warehouse. Take is about $6k.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "175",
+			"position": [
+				1137.97,
+				457.19
+			],
+			"popup": {
+				"title": "Assassination",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man shoots his opponent and runs off.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "176",
+			"position": [
+				1090.31,
+				1771.09
+			],
+			"popup": {
+				"title": "Wanted Posters (side mission)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two wanted posters next to the front entrance of the Xero Food Mart. Examine them to unlock a side mission.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "177",
+			"position": [
+				1247.5,
+				2432.03
+			],
+			"popup": {
+				"title": "Bud the Alien Hunter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Around 19:00 you hear \"woo woo\" shouts: Bud stands on top of his car, hoping to draw aliens and take a picture of them.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "178",
+			"position": [
+				1685.16,
+				1209.38
+			],
+			"popup": {
+				"title": "Tigers in the Garages",
+				"description": "Location: [[Vice City]]<br/>There is a tiger in each of the garages of this house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "179",
+			"position": [
+				930.78,
+				2116.25
+			],
+			"popup": {
+				"title": "Drugged Robber",
+				"description": "Location: [[Port Gellhorn]]<br/>A man on drugs holds up his friend at the convenience store.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "180",
+			"position": [
+				1271.25,
+				1880.63
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Push the van out of the mud.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "181",
+			"position": [
+				1270.94,
+				1880.78
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Help push the van out of the mud.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "182",
+			"position": [
+				1477.66,
+				1077.97
+			],
+			"popup": {
+				"title": "Caravan Fight",
+				"description": "Location: [[Hamlet]]<br/>Knock on the caravan door enough times and the man inside comes out to fight.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "183",
+			"position": [
+				1095,
+				2157.03
+			],
+			"popup": {
+				"title": "Jumbo the Gator",
+				"description": "Location: [[Port Gellhorn]]<br/>While you are in the store a gator comes through the door. The clerk calls him Jumbo and asks you to feed him a hot dog.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

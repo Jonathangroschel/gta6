@@ -5098,6 +5098,902 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "318",
+			"position": [
+				1822.81,
+				1777.19
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Anthony Ross",
+				"description": "Location: [[Vice City]]<br/>On the second floor, on the fridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "319",
+			"position": [
+				1733.59,
+				2011.72
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Leroy Rook (Gold)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the safe in the bedroom of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "320",
+			"position": [
+				1152.66,
+				1093.91
+			],
+			"popup": {
+				"title": "Collectible Card (water tower)",
+				"description": "Location: [[Watson Bay]]<br/>At the top of the water tower, in the bird's nest.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "321",
+			"position": [
+				1583.75,
+				790.94
+			],
+			"popup": {
+				"title": "Yellow Loot Box",
+				"description": "Location: [[Key Lento]]<br/>Random contents (a card, cash, jewelry...). A member found the Los Santos Pounders: Granian Beach card here. At the top of the tower, in the phone box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "322",
+			"position": [
+				889.22,
+				2106.41
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Crystal",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a bumper car, with the gnome.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "323",
+			"position": [
+				744.84,
+				2107.19
+			],
+			"popup": {
+				"title": "Yellow Loot Box",
+				"description": "Location: [[Port Gellhorn]]<br/>Random contents (a card, cash, jewelry...). A member found the Crystal card (America's Next Top Hooker) here. In a yellow box at the top of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "324",
+			"position": [
+				1739.22,
+				1793.75
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: RatFace (Bronze)",
+				"description": "Location: [[Vice City]]<br/>Inside the abandoned shed, on the left near the wall.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "325",
+			"position": [
+				927.81,
+				1596.25
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card",
+				"description": "Location: [[Capri]]<br/>On top of the highest point.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "326",
+			"position": [
+				935.78,
+				603.13
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Maximus Goldbart",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the ground floor, outside on the TV console.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "327",
+			"position": [
+				827.66,
+				1744.22
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Disastrous Duo",
+				"description": "Location: [[Capri]]<br/>On a side table by a couch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "328",
+			"position": [
+				2205.31,
+				1740.47
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Katie K",
+				"description": "Location: [[Vice Beach]]<br/>On the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "329",
+			"position": [
+				1876.72,
+				1954.53
+			],
+			"popup": {
+				"title": "Vice City Club de Futbol card: Renata Vasquez (Dusty Pink)",
+				"description": "Location: [[Vice City]]<br/>On the roof, next to a football net and ball.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "330",
+			"position": [
+				1107.34,
+				2867.5
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Danny McLean",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "331",
+			"position": [
+				1743.28,
+				1445.94
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Skyla",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "332",
+			"position": [
+				1719.38,
+				1755.16
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Side Effect",
+				"description": "Location: [[Vice City]]<br/>In the bathroom of the employee area.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "333",
+			"position": [
+				1877.19,
+				1473.28
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Noah Marcus",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "334",
+			"position": [
+				1574.38,
+				2845.16
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Quinton Allen",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the safe in the caravan.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "335",
+			"position": [
+				1412.34,
+				2230.63
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Blake Balls",
+				"description": "Location: [[Ambrosia]]<br/>Inside the blue house covered in Buddy Krever ads, in one of the bedrooms.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "336",
+			"position": [
+				1325.78,
+				2802.5
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Sapphire",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the trunk of a red car crushed by rocks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "337",
+			"position": [
+				1767.03,
+				1833.75
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Alvin Orlowski",
+				"description": "Location: [[Vice City]]<br/>Third floor, room 16.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "338",
+			"position": [
+				1217.5,
+				1634.53
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: General Surgeon",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the storage room, on the cork board.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "339",
+			"position": [
+				1876.56,
+				1880.78
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Dimitri Petrov",
+				"description": "Location: [[Vice City]]<br/>On the roof, up the ladder near the food carts.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "340",
+			"position": [
+				1784.53,
+				1847.03
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Badge",
+				"description": "Location: [[Vice City]]<br/>In the gaming room, next to the safe.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "341",
+			"position": [
+				1783.28,
+				1845.16
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Immigrantasma",
+				"description": "Location: [[Vice City]]<br/>On the fridge in the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "342",
+			"position": [
+				1648.44,
+				1306.25
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Sue Prettyman",
+				"description": "Location: [[Vice City]]<br/>To the right of the front door, next to a stack of magazines.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "343",
+			"position": [
+				1786.41,
+				1836.72
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Ali Zeidan",
+				"description": "Location: [[Vice City]]<br/>Hanging on the wall inside the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "344",
+			"position": [
+				1820.63,
+				1846.88
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Diagnosis",
+				"description": "Location: [[Vice City]]<br/>In the trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "345",
+			"position": [
+				1778.28,
+				1737.66
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Rion Yapa",
+				"description": "Location: [[Vice City]]<br/>In the garage under the bridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "346",
+			"position": [
+				1508.91,
+				2253.91
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Duke King",
+				"description": "Location: [[Ambrosia]]<br/>In the garage, next to an orange baseball cap.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "347",
+			"position": [
+				1153.59,
+				1148.44
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Ifred",
+				"description": "Location: [[Watson Bay]]<br/>By the rabbit hutch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "348",
+			"position": [
+				1801.09,
+				1795.63
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Alexander Avain",
+				"description": "Location: [[Vice City]]<br/>Inside a room on the third floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "349",
+			"position": [
+				882.19,
+				1586.72
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Dylan Ezequiel Mack Jr.",
+				"description": "Location: [[Capri]]<br/>In the living room, next to the TV.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "350",
+			"position": [
+				1746.72,
+				1462.66
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Todd Lang",
+				"description": "Location: [[Vice City]]<br/>In the store backroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "351",
+			"position": [
+				2056.72,
+				1974.38
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Lev Volkov (Gold)",
+				"description": "Location: [[Vice Beach]]<br/>On the basketball court near the chair: the piece of paper on the floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "352",
+			"position": [
+				1744.53,
+				1811.88
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Mateo Caballero",
+				"description": "Location: [[Vice City]]<br/>In a bedroom, on the window.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "353",
+			"position": [
+				670.94,
+				755.78
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Beverly",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Right next to a chair.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "354",
+			"position": [
+				1697.19,
+				2663.75
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Right Wing vs Left Wing",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the floor in the restroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "355",
+			"position": [
+				1949.06,
+				2360.78
+			],
+			"popup": {
+				"title": "Los Santos Panic card (Gold)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "356",
+			"position": [
+				1718.59,
+				2093.13
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Dimitri Petrov",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the bleachers by the basketball court.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "357",
+			"position": [
+				2006.25,
+				1765.47
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Ichiro Yamada",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "358",
+			"position": [
+				1819.06,
+				1702.03
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Death of Swallow",
+				"description": "Location: [[Vice City]]<br/>At the desk on the second floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "359",
+			"position": [
+				1439.84,
+				2228.28
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Axel Hughes (Standard)",
+				"description": "Location: [[Ambrosia]]<br/>On the sofa outside the trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "360",
+			"position": [
+				1065.16,
+				2356.41
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Blood Smith (Standard)",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the treehouse covered with a red tarp, on the ground next to a pile of magazines.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "361",
+			"position": [
+				1306.56,
+				1270.94
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Cherry O'Glade (Standard)",
+				"description": "Location: [[Watson Bay]]<br/>Inside the abandoned railway car on the tracks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "362",
+			"position": [
+				1480,
+				2562.34
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Chrissy Deangelo (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the porch of Boulder Cabin, next to the door and a backpack.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "363",
+			"position": [
+				1687.19,
+				1737.5
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: Katie K (Standard)",
+				"description": "Location: [[Vice City]]<br/>On the corner of the roof ledge above the entrance of Harper Simmons Legal Services in Rockridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "364",
+			"position": [
+				800,
+				1671.09
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Blake Balls (Purple)",
+				"description": "Location: [[Capri]]<br/>On a shelf in the garage (no alarm).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "365",
+			"position": [
+				2155,
+				1782.5
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Ian Harris",
+				"description": "Location: [[Vice Beach]]<br/>On the top floor of an apartment.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "366",
+			"position": [
+				800.63,
+				1670
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Delord Nathan Alford",
+				"description": "Location: [[Capri]]<br/>On a shelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "367",
+			"position": [
+				1488.28,
+				1742.19
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Julian Hall",
+				"description": "Location: [[Vice City]]<br/>Inside the office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "368",
+			"position": [
+				1481.56,
+				2305.16
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Quinton Allen (Silver)",
+				"description": "Location: [[Ambrosia]]<br/>At the motel: hold L3 and R3 to pick up the signal, go inside and enter the code the man in the bathroom gives you (4242) into the safe.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "369",
+			"position": [
+				1536.41,
+				2260.16
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Great Uncle Sam",
+				"description": "Location: [[Ambrosia]]<br/>On the wooden porch of the bar (Anakala Sam's).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "370",
+			"position": [
+				2047.5,
+				2147.66
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Harold Toye",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the pink flamingo garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "371",
+			"position": [
+				1410.47,
+				2254.69
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Ulysses Whitlock (Gold)",
+				"description": "Location: [[Ambrosia]]<br/>At the top of the radio tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "372",
+			"position": [
+				1629.69,
+				1668.44
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Red White & Boom",
+				"description": "Location: [[Vice City]]<br/>On the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "373",
+			"position": [
+				1956.41,
+				1550.16
+			],
+			"popup": {
+				"title": "Ichiro Yamada",
+				"description": "Location: [[Vice City]]<br/>On a table in the luggage building",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

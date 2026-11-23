@@ -698,6 +698,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				1263.13,
+				1900.63
+			],
+			"popup": {
+				"title": "Small Weed Farm",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Knock out the man at the front and enter the room: a small weed farm, loot around $1,000.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
